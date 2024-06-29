@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coui_preference_dialog_message_color">#ffffffff</color>
+    <color name="coui_control_id_picker_separator">#ffffffff</color>
+
+    <color name="oneplus_accent_button_text_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_accent_text_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_sub_accent_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_tab_layout_stroke_color_default">@*android:color/accent_material_dark</color>
+    <color name="op_control_icon_color_active_dark">@*android:color/accent_material_dark</color>
+    <color name="op_control_text_color_primary_dark">#ffffffff</color>
+</resources>

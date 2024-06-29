@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="op_quick_settings_bg_gradient_end">#00000000</color>
+    <color name="op_quick_settings_bg_gradient_start">@*android:color/background_dark</color>
+    <color name="op_quick_settings_scrim_color">@*android:color/background_dark</color>
+    <color name="op_quick_settings_status_bar_color">@*android:color/car_blue_grey_900</color>
+</resources>

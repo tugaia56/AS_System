@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="display_result_exponent_text_color">#40ffffff</color>
+    <color name="history_bg">#70000000</color>
+    <color name="oneplus_accent_button_text_color">#d8000000</color>
+    <color name="oneplus_accent_text_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_contorl_bg_color_light">#ff161719</color>
+    <color name="oneplus_sub_accent_color">#00000000</color>
+    <color name="oneplus_tab_layout_stroke_color_default">#33ffffff</color>
+    <color name="op_calculator_Text_result_color">#8affffff</color>
+    <color name="op_calculator_control_high_light_color">#33ffffff</color>
+    <color name="op_calculator_dialog_background_color">#ff252728</color>
+    <color name="op_calculator_dialog_msg_text_color">#b3ffffff</color>
+    <color name="op_calculator_history_menu_clear_inactive_color">#2dffffff</color>
+    <color name="op_calculator_menu_background_color">#ff252728</color>
+    <color name="op_calculator_menu_text_color">#ffffffff</color>
+    <color name="op_calculator_navigation_bar_color">@*android:color/background_dark</color>
+    <color name="op_control_icon_color_active_dark">#d8ffffff</color>
+    <color name="op_control_text_color_primary_dark">#d8ffffff</color>
+    <color name="op_display_background_color">@*android:color/button_material_dark</color>
+    <color name="op_eq_background_color">@*android:color/accent_material_dark</color>
+    <color name="op_eq_icon_bg_color">#ffb1362f</color>
+    <color name="op_pad_advanced_background_color">@*android:color/background_dark</color>
+    <color name="op_pad_numeric_background_color">@*android:color/background_dark</color>
+    <color name="op_pad_operator_background_color">@*android:color/background_dark</color>
+    <color name="pad_button_ripple_color">#1affffff</color>
+    <color name="tooltip_bg">@*android:color/accent_material_dark</color>
+</resources>

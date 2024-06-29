@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="op_parsons_clock_subtitle">
+        <item name="*android:textSize">21.0dip</item>					<!-- 13 stock -->
+        <item name="*android:fontFamily">sans-serif</item>
+        <item name="*android:breakStrategy">simple</item>
+    </style>
+    <style name="op_parsons_clock_title">
+        <item name="*android:textSize">53.0dip</item>					<!-- 32 stock -->
+        <item name="*android:fontFamily">sans-serif</item>
+        <item name="*android:breakStrategy">simple</item>
+    </style>
+</resources>

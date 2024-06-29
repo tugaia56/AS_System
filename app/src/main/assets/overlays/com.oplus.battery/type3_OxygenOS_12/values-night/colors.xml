@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="battery_card_background">@*android:color/background_dark</color>
+    <color name="battery_card_progress_background">#1affffff</color>
+    <color name="battery_card_text_level">#ffffffff</color>
+    <color name="battery_card_text_time">#8cffffff</color>
+    <color name="battery_ui_background">@*android:color/background_dark</color>
+    <color name="battery_ui_button_high_light">#4dffffff</color>
+    <color name="battery_ui_one_key_opt">@*android:color/background_dark</color>
+    <color name="battery_ui_text_color_light">#d9ffffff</color>
+    <color name="battery_ui_view_background">@*android:color/background_dark</color>
+    <color name="battery_ui_warning_bg">#ffffffff</color>
+    <color name="bottom_recommended_recycler_view_bg">@*android:color/button_material_dark</color>
+    <color name="bottom_recommended_title_common">#ffffffff</color>
+    <color name="bottom_recommended_title_head">#73ffffff</color>
+    <color name="curve_y_label_color">#fffafafa</color>
+    <color name="reminder_text">#ffffffff</color>
+    <color name="tab_text">#ffffffff</color>
+    <color name="tab_text_selected">@*android:color/accent_material_dark</color>
+</resources>

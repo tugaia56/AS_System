@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- primo background sotto a tutto - bordo -->
+    <item>
+        <shape android:shape="oval">
+            <gradient android:startColor="@*android:color/transparent" android:centerColor="@*android:color/transparent" android:endColor="@*android:color/transparent" android:angle="58.0" />
+        </shape>
+    </item>
+    <!-- secondo background visibile -->
+    <item android:left="58.0dip" android:top="58.0dip" android:right="58.0dip" android:bottom="58.0dip">
+        <shape android:shape="oval">
+            <gradient android:startColor="@*android:color/accent_material_dark" android:centerColor="@*android:color/accent_material_light" android:endColor="@*android:color/accent_material_dark" android:angle="90.0" />
+        </shape>
+    </item>
+    <!-- terzo background sfumatura sotto -->
+    <item android:left="60.0dip" android:top="60.0dip" android:right="60.0dip" android:bottom="60.0dip">
+        <shape android:shape="oval">
+            <gradient android:startColor="@*android:color/background_dark" android:centerColor="@*android:color/background_dark" android:endColor="@*android:color/background_dark" android:angle="58.0" />
+        </shape>
+    </item>
+</layer-list>

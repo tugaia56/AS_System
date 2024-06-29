@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="keyguard_avatar_frame_shadow_color">#80000000</color>
+    <color name="legacy_primary">@*android:color/black</color>
+    <color name="background">#80000000</color>
+    <color name="background_dark">#80000000</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="holo_primary_dark">#26000000</color>
+    <color name="holo_primary">#26000000</color>
+    <color name="background_holo_dark">#26000000</color>
+    <color name="button_material_dark">#26000000</color>
+    <color name="button_material_light">#26000000</color>
+    <color name="media_controller_background_color">#26000000</color>
+    <color name="web_view_dropdown_background_color">#26000000</color>
+    <color name="resolver_list_bg">#26000000</color>
+    <color name="primary_dark_material_dark">@*android:color/transparent</color>
+    <color name="primary_material_dark">@*android:color/transparent</color>
+    <color name="background_floating_material_dark">#26000000</color>
+    <color name="background_material_dark">#26000000</color>
+    <color name="legacy_primary_dark">@*android:color/black</color>
+    <color name="holo_light_primary_dark">#26000000</color>
+    <color name="background_device_default_dark">#80000000</color>
+    <color name="chooser_service_row_background_color">#00000000</color>
+    <color name="group_button_dialog_focused_holo_dark">#e6000000</color>	<!-- 10% -->
+    <color name="group_button_dialog_focused_holo_light">#cc000000</color>	<!-- 20% -->
+    <color name="group_button_dialog_pressed_holo_dark">#a6000000</color>	<!-- 40% -->
+    <color name="group_button_dialog_pressed_holo_light">#80000000</color>	<!-- 50% -->
+    <color name="car_blue_grey_800">#33000000</color>						<!-- 80% -->
+    <color name="car_blue_grey_900">#1a000000</color>						<!-- 90% -->
+	
+    <style name="Theme.DeviceDefault.Settings.Dark.NoActionBar" parent="@*android:style/Theme.Material.Settings">
+        <item name="android:colorForeground">@*android:color/white</item>
+        <item name="android:colorBackground">@*android:color/background_floating_material_dark</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowElevation">0.5dip</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_dark</item>
+        <item name="android:navigationBarColor">@*android:color/primary_dark_material_dark</item>
+        <item name="android:windowBackground">@*android:color/keyguard_avatar_frame_shadow_color</item>
+        <item name="android:panelColorBackground">@*android:color/background_floating_material_dark</item>
+        <item name="android:colorPrimary">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorSecondary">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorPrimaryDark">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorControlHighlight">@*android:color/ripple_material_dark</item>
+        <item name="android:colorEdgeEffect">@*android:color/ripple_material_dark</item>
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="android:colorControlNormal">@*android:color/accent_material_dark</item>
+        <item name="android:colorControlActivated">@*android:color/accent_material_dark</item>
+        <item name="android:panelBackground">@*android:drawable/popup_background_material</item>
+    </style>
+    <style name="Theme.Material.NoActionBar" parent="@*android:style/Theme.Material">
+        <item name="*android:tooltipForegroundColor">@*android:color/foreground_material_dark</item>
+        <item name="android:colorForeground">@*android:color/white</item>
+        <item name="android:colorBackground">@*android:color/background_floating_material_dark</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowElevation">0.5dip</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_dark</item>
+        <item name="android:navigationBarColor">@*android:color/primary_dark_material_dark</item>
+        <item name="android:windowBackground">@*android:color/keyguard_avatar_frame_shadow_color</item>
+        <item name="android:panelColorBackground">@*android:color/background_floating_material_dark</item>
+        <item name="android:colorPrimary">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorSecondary">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorPrimaryDark">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorControlHighlight">@*android:color/ripple_material_dark</item>
+        <item name="android:colorEdgeEffect">@*android:color/ripple_material_dark</item>
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="android:colorControlNormal">@*android:color/accent_material_dark</item>
+        <item name="android:colorControlActivated">@*android:color/accent_material_dark</item>
+        <item name="android:panelBackground">@*android:drawable/popup_background_material</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Theme.Material.Settings" parent="@*android:style/Theme.Material">
+        <item name="android:homeAsUpIndicator">@*android:drawable/ic_ab_back_material_settings</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowElevation">0.5dip</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowBackground">@*android:color/keyguard_avatar_frame_shadow_color</item>
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_dark</item>
+        <item name="android:navigationBarColor">@*android:color/primary_dark_material_dark</item>
+        <item name="android:presentationTheme">@*android:style/Theme.Material.Settings.Dialog.Presentation</item>
+        <item name="android:colorPrimary">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorSecondary">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorControlNormal">@*android:color/accent_material_dark</item>
+        <item name="android:colorPrimaryDark">@*android:color/primary_dark_material_dark</item>
+        <item name="*android:panelMenuListTheme">@*android:style/Theme.Material.Settings.CompactMenu</item>
+        <item name="*android:searchDialogTheme">@*android:style/Theme.Material.Settings.SearchBar</item>
+    </style>
+</resources>

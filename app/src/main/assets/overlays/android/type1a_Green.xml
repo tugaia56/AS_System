@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">#2E7D32</color>
+    <color name="keyguard_avatar_frame_pressed_color">#402E7D32</color>
+    <color name="holo_red_light">#cc2E7D32</color>
+    <color name="highlighted_text_dark">#992E7D32</color>
+    <color name="highlighted_text_light">#992E7D32</color>
+    <color name="accessibility_focus_highlight_color">#bf2E7D32</color>
+    <color name="holo_button_normal">#212E7D32</color>
+    <color name="ripple_material_dark">#802E7D32</color>
+    <color name="ripple_material_light">#662E7D32</color>
+    <color name="holo_blue_light">#004a00</color>
+</resources>

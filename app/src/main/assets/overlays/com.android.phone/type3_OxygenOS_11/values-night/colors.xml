@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="advanced_outline_color">#ffffffff</color>
+    <color name="emergency_call_icon_color">#ffe8eaed</color>
+    <color name="emergency_dialpad_fab_tint_color">@*android:color/accent_material_dark</color>
+    <color name="emergency_info_btn_background_color">@*android:color/background_dark</color>
+    <color name="emergency_info_btn_bolder">#85ffffff</color>
+    <color name="emergency_shortcut_button_background_color">@*android:color/background_dark</color>
+    <color name="emergency_shortcut_confirm_button_background_color">@*android:color/button_material_dark</color>
+    <color name="emergency_shortcut_confirm_phone_type_icon_color">@*android:color/accent_material_dark</color>
+    <color name="emergency_shortcut_phone_type_icon_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_accent_button_text_color">#d8000000</color>
+    <color name="oneplus_accent_text_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_actionbar_background_color">@*android:color/background_dark</color>
+    <color name="oneplus_empty_list_action_text_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_status_bar_color">@*android:color/background_dark</color>
+    <color name="oneplus_sub_accent_color">#d8ffffff</color>
+    <color name="oneplus_tab_layout_stroke_color_default">#33ffffff</color>
+    <color name="op_control_icon_color_active_dark">#d8ffffff</color>
+    <color name="op_control_text_color_primary_dark">#d8ffffff</color>
+    <color name="op_emergency_background_color">@*android:color/background_dark</color>
+    <color name="op_settings_color_accent">@*android:color/accent_material_dark</color>
+    <color name="op_sim_settings_title_background">@*android:color/background_dark</color>
+</resources>

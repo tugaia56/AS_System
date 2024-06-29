@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="batterymeter_color_values">
+        <item>@*android:color/accent_material_dark</item>
+        <item>#ffffffff</item>
+    </array>
+	
+</resources>
