@@ -23,11 +23,11 @@
     <color name="holo_blue_bright">@*android:color/accent_material_dark</color>
     <color name="system_notification_accent_color">#00000000</color>
     <color name="system_neutral1_0">#ffffffff</color>
-    <color name="system_neutral1_10">#fffbfbfb</color>
+    <color name="system_neutral1_10">#ffffffff</color>
     <color name="system_neutral1_50">#ffffffff</color>
     <color name="system_neutral1_100">@*android:color/accent_material_dark</color>
-    <color name="system_neutral1_200">#ffc6c6c6</color>
-    <color name="system_neutral1_300">#ffababab</color>
+    <color name="system_neutral1_200">#ffffffff</color>
+    <color name="system_neutral1_300">#ffffffff</color>
     <color name="system_neutral1_400">@*android:color/background_leanback_dark</color>
     <color name="system_neutral1_500">@*android:color/background_holo_dark</color>
     <color name="system_neutral1_600">@*android:color/holo_light_primary_dark</color>
@@ -39,8 +39,8 @@
     <color name="system_neutral2_10">#ffffffff</color>
     <color name="system_neutral2_50">#ffffffff</color>
     <color name="system_neutral2_100">@*android:color/accent_material_dark</color>
-    <color name="system_neutral2_200">#c6c6c6</color>
-    <color name="system_neutral2_300">#ffababab</color>
+    <color name="system_neutral2_200">#ffffffff</color>
+    <color name="system_neutral2_300">#ffffffff</color>
     <color name="system_neutral2_400">@*android:color/background_leanback_dark</color>
     <color name="system_neutral2_500">@*android:color/background_holo_dark</color>
     <color name="system_neutral2_600">@*android:color/holo_light_primary_dark</color>
@@ -66,7 +66,7 @@
     <color name="system_accent2_100">@*android:color/accent_material_dark</color>
     <color name="system_accent2_200">@*android:color/accent_material_dark</color>
     <color name="system_accent2_300">@*android:color/accent_material_dark</color>
-    <color name="system_accent2_400">@*android:color/accent_material_dark</color>
+    <color name="system_accent2_400">@*android:color/white</color>
     <color name="system_accent2_500">@*android:color/background_holo_dark</color>
     <color name="system_accent2_600">@*android:color/holo_light_primary_dark</color>
     <color name="system_accent2_700">@*android:color/button_material_dark</color>
@@ -87,7 +87,7 @@
     <color name="system_accent3_900">@*android:color/background_dark</color>
     <color name="system_accent3_1000">@*android:color/background_dark</color>
     <color name="system_primary_container_light">@*android:color/accent_material_dark</color>
-    <color name="system_on_primary_container_light">#ff001a41</color>
+    <color name="system_on_primary_container_light">@*android:color/background_dark</color>
     <color name="system_primary_light">#ff445e91</color>
     <color name="system_on_primary_light">#ffffffff</color>
     <color name="system_secondary_container_light">#ffdbe2f9</color>
@@ -174,7 +174,7 @@
     <color name="system_palette_key_color_neutral_variant_dark">#ff777982</color>
     <color name="system_primary_fixed">@*android:color/accent_material_dark</color>
     <color name="system_primary_fixed_dim">@*android:color/accent_material_dark</color>
-    <color name="system_on_primary_fixed">#ff001a41</color>
+    <color name="system_on_primary_fixed">@*android:color/background_dark</color>
     <color name="system_on_primary_fixed_variant">#ff2b4678</color>
     <color name="system_secondary_fixed">#ffdbe2f9</color>
     <color name="system_secondary_fixed_dim">#ffbfc6dc</color>

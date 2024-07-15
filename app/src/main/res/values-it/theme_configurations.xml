@@ -20,12 +20,12 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 4.6.0</item>
+        <item>Versione 4.7.0</item>
         <item>AGGIUNTO:</item>
         <item>- - -</item>
         <item>AGGIORNATO:</item>
-        <item>OnePlus Orologio</item>
-        <item>Barra laterale intelligente BUG FIX</item>
+        <item>UI Sistema 14.0 Bug Fix</item>
+        <item>Impostazioni Icone 14.0 Bug Fix</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
