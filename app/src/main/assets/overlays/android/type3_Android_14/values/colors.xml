@@ -370,9 +370,9 @@
     <color name="system_neutral2_1000">@*android:color/background_dark</color>
     <color name="system_accent1_0">#ffffffff</color>
     <color name="system_accent1_10">#ffffffff</color>
-    <color name="system_accent1_50">@*android:color/accent_material_dark</color>
+    <color name="system_accent1_50">#ffffffff</color>
     <color name="system_accent1_100">@*android:color/accent_material_dark</color>
-    <color name="system_accent1_200">#ffffffff</color>
+    <color name="system_accent1_200">@*android:color/accent_material_dark</color>
     <color name="system_accent1_300">@*android:color/accent_material_dark</color>
     <color name="system_accent1_400">@*android:color/background_dark</color>
     <color name="system_accent1_500">@*android:color/accent_material_dark</color>
