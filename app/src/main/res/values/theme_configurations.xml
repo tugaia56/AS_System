@@ -25,6 +25,7 @@
         <item>- - -</item>
         <item>UPDATED:</item>
         <item>OOS 14 Calculator</item>
+        <item>Android System Bug Fix</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
