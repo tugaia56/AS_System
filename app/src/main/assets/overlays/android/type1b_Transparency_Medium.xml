@@ -21,6 +21,7 @@
     <color name="legacy_primary_dark">@*android:color/black</color>
     <color name="holo_light_primary_dark">#26000000</color>
     <color name="background_device_default_dark">#66000000</color>
+	
     <color name="chooser_service_row_background_color">#00000000</color>
     <color name="group_button_dialog_focused_holo_dark">#e6000000</color>	<!-- 10% -->
     <color name="group_button_dialog_focused_holo_light">#cc000000</color>	<!-- 20% -->

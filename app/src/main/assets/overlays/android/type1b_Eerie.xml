@@ -12,7 +12,7 @@
     <color name="holo_light_primary_dark">#262228</color>
     <color name="holo_primary">#221e24</color>
     <color name="holo_primary_dark">#2f2b30</color>
-	    <color name="keyguard_avatar_frame_shadow_color">@*android:color/background_dark</color>
+	<color name="keyguard_avatar_frame_shadow_color">@*android:color/background_dark</color>
     <color name="legacy_primary">@*android:color/background_dark</color>
     <color name="legacy_primary_dark">@*android:color/background_dark</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
