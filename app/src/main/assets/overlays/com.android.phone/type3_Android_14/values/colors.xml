@@ -95,7 +95,7 @@
     <color name="couiGreenFourthNormal">#ff8f9974</color>
     <color name="couiGreenFourthTextHighLight">#4c8f9974</color>
     <color name="couiGreenOverrideTintControlNormal">@*android:color/accent_material_dark</color>
-    <color name="couiGreenOverrideTintControlPressed">#ff1a3594</color>
+    <color name="couiGreenOverrideTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiGreenOverrideTintLightNormal">#262144bf</color>
     <color name="couiGreenOverrideTintLightPressed">#262144bf</color>
     <color name="couiGreenSecondBarDisabledColor">#4c59865e</color>
@@ -109,7 +109,7 @@
     <color name="couiGreenTintControlDisabled">#26000000</color>
     <color name="couiGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintControlNormalPreferenceBg">#ffdff8ec</color>
-    <color name="couiGreenTintControlPressed">#ff1a3594</color>
+    <color name="couiGreenTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintLightNormal">#262144bf</color>
     <color name="couiGreenTintLightPressed">#262144bf</color>
     <color name="couiLoadingViewMediumColor">@*android:color/background_dark</color>

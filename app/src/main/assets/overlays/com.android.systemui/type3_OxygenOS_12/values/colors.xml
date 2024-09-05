@@ -487,7 +487,7 @@
     <color name="couiSingleFirstLightNormal">#262144bf</color>
     <color name="couiSingleFirstLightPressed">#261a3594</color>
     <color name="couiSingleFirstNormal">@*android:color/accent_material_dark</color>
-    <color name="couiSingleFirstPressed">#ff1a3594</color>
+    <color name="couiSingleFirstPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleFirstTextHighLight">#4c2144bf</color>
     <color name="couiSingleFourthBarDisabledColor">#4d00ccaa</color>
     <color name="couiSingleFourthCompatBarDisabledColor">#4d22bfd7</color>
@@ -1470,7 +1470,7 @@
     <color name="notification_shade_panel_bg_mask_color">@*android:color/background_dark</color>
     <color name="notification_silence_color">@*android:color/accent_material_dark</color>
     <color name="notification_text_color">#de000000</color>
-    <color name="oneplusCouiGreenTintControlNormal">#ff1a3594</color>
+    <color name="oneplusCouiGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="oneplusCouiGreenTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="oneplusCouiGreenTintLightNormal">#262144bf</color>
     <color name="oneplusCouiGreenTintLightPressed">#262144bf</color>

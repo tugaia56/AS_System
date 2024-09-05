@@ -604,7 +604,7 @@
     <color name="NXcolorSingleFirstNormalTheme5">@*android:color/accent_material_dark</color>
     <color name="NXcolorSingleFirstPressed">#ffff501c</color>
     <color name="NXcolorSingleFirstPressedTheme3">#ffff501c</color>
-    <color name="NXcolorSingleFirstPressedTheme5">#ff1a3594</color>
+    <color name="NXcolorSingleFirstPressedTheme5">@*android:color/accent_material_dark</color>
     <color name="NXcolorSingleFirstTextHighLight">#4cff6436</color>
     <color name="NXcolorSingleFirstTextHighLightTheme3">#4cff6436</color>
     <color name="NXcolorSingleFirstTextHighLightTheme5">#4c2144bf</color>

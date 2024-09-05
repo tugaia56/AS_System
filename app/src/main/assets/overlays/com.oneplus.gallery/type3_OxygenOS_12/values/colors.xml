@@ -366,7 +366,7 @@
     <color name="couiSingleFirstLightNormal">#262144bf</color>
     <color name="couiSingleFirstLightPressed">#261a3594</color>
     <color name="couiSingleFirstNormal">@*android:color/accent_material_dark</color>
-    <color name="couiSingleFirstPressed">#ff1a3594</color>
+    <color name="couiSingleFirstPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleFirstTextHighLight">#4c2144bf</color>
     <color name="couiSingleFourthBarDisabledColor">#4d00ccaa</color>
     <color name="couiSingleFourthLightNormal">#2600ccaa</color>

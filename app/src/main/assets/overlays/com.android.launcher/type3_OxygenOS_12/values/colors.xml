@@ -220,7 +220,7 @@
     <color name="couiGreenTintControlDisabled">#26000000</color>
     <color name="couiGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintControlNormalPreferenceBg">#ffdff8ec</color>
-    <color name="couiGreenTintControlPressed">#ff1a3594</color>
+    <color name="couiGreenTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintLightNormal">#262144bf</color>
     <color name="couiGreenTintLightPressed">#262144bf</color>
     <color name="couiHintTextColor">#ff363636</color>
@@ -385,7 +385,7 @@
     <color name="couiSingleFirstLightNormal">#262144bf</color>
     <color name="couiSingleFirstLightPressed">#261a3594</color>
     <color name="couiSingleFirstNormal">@*android:color/accent_material_dark</color>
-    <color name="couiSingleFirstPressed">#ff1a3594</color>
+    <color name="couiSingleFirstPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleFirstTextHighLight">#4c2144bf</color>
     <color name="couiSingleFourthBarDisabledColor">#4d00ccaa</color>
     <color name="couiSingleFourthCompatBarDisabledColor">#4d22bfd7</color>
@@ -541,7 +541,7 @@
     <color name="couiTextRedHighlight">#4cec3e50</color>
     <color name="couiTextSkyblueHighlight">#4c38d7d5</color>
     <color name="couiTextYellowHighlight">#4cffbb0e</color>
-    <color name="couiTintControlNormal">#ff1a3594</color>
+    <color name="couiTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiWhite">#ffffffff</color>
     <color name="couiYellowDarkTintControlDisabled">#33ffffff</color>
     <color name="couiYellowDarkTintLightNormal">#4d2144bf</color>

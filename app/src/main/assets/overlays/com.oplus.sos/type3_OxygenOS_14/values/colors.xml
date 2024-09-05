@@ -94,7 +94,7 @@
     <color name="couiGreenTintControlDisabled">#26000000</color>
     <color name="couiGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintControlNormalPreferenceBg">#ffdff8ec</color>
-    <color name="couiGreenTintControlPressed">#ff1a3594</color>
+    <color name="couiGreenTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintLightNormal">#262144bf</color>
     <color name="couiGreenTintLightPressed">#262144bf</color>
     <color name="couiLoadingViewMediumColor">@*android:color/background_dark</color>

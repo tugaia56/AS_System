@@ -98,7 +98,7 @@
     <color name="couiGreenThirdNormal">#ff4fcb14</color>
     <color name="couiGreenThirdTextHighLight">#4c4fcb14</color>
     <color name="couiGreenTintControlDisabled">#26000000</color>
-    <color name="couiGreenTintControlNormal">#ff1a3594</color>
+    <color name="couiGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintControlNormalPreferenceBg">#ffdff8ec</color>
     <color name="couiGreenTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintLightNormal">#262144bf</color>

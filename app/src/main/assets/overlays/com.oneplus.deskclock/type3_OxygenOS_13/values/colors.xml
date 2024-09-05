@@ -206,7 +206,7 @@
     <color name="couiRedTintControlDisabled">#26000000</color>
     <color name="couiRedTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedTintControlNormalPreferenceBg">#fffce1e4</color>
-    <color name="couiRedTintControlPressed">#ff1a3594</color>
+    <color name="couiRedTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiRedTintLightNormal">#262144bf</color>
     <color name="couiRedTintLightPressed">#262144bf</color>
     <color name="couiSingleEighthBarDisabledColor">#4d7e70ff</color>
