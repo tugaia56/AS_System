@@ -40,10 +40,10 @@
     <color name="couiBlueThirdLightNormal">#4d006eff</color>
     <color name="couiBlueThirdNormal">#ff006eff</color>
     <color name="couiBlueTintControlDisabled">#33ffffff</color>
-    <color name="couiBlueTintControlNormal">#ff1875f5</color>
+    <color name="couiBlueTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueTintControlPressed">#ff135ec4</color>
     <color name="couiBlueTintLightNormal">#4d007aff</color>
-    <color name="couiBlueTintLightPressed">#331875f5</color>
+    <color name="couiBlueTintLightPressed"> @*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="couiDefaultBarDisabledColorP">#4d4f67d2</color>
     <color name="couiDefaultPrimaryP">@*android:color/accent_material_dark</color>
     <color name="couiDefaultSecondaryP">@*android:color/keyguard_avatar_frame_pressed_color</color>
@@ -109,8 +109,8 @@
     <color name="couiSkyblueTintControlNormal">#ff4c55d0</color>
     <color name="couiSkyblueTintLightNormal">#4d38d7d5</color>
     <color name="couiSkyblueTintLightPressed">#4d29ccca</color>
-    <color name="couiYellowFifthLightNormal">#40fac637</color>
-    <color name="couiYellowFifthNormal">#fffac637</color>
+    <color name="couiYellowFifthLightNormal"> @*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="couiYellowFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiYellowFifthOnPopupNormal">#fffacb4b</color>
     <color name="couiYellowFifthTextNormal">#fff2bf30</color>
     <color name="couiYellowFirstLightNormal">#4df2bf41</color>

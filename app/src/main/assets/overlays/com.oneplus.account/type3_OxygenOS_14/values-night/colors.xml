@@ -546,7 +546,7 @@
     <color name="nxSkyblueSecondaryButtonBackground">#ff144d4c</color>
     <color name="nxSkyblueSecondaryButtonBackgroundTheme3">#ff144d4c</color>
     <color name="nxSkyblueSecondaryButtonBackgroundTheme4">#ff144d4c</color>
-    <color name="nxYellowSecondaryButtonBackground">#40fac637</color>
+    <color name="nxYellowSecondaryButtonBackground"> @*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="nxYellowSecondaryButtonBackgroundTheme3">#ff806200</color>
     <color name="nxYellowSecondaryButtonBackgroundTheme4">#ff806200</color>
     <color name="nx_alert_dialog_background_tint">@*android:color/background_dark</color>

@@ -501,7 +501,7 @@
     <color name="coui_color_secondary_red_dark">#40ea3939</color>
     <color name="coui_color_secondary_red_light">#26df3f3a</color>
     <color name="coui_color_secondary_yellow">#26ffc014</color>
-    <color name="coui_color_secondary_yellow_dark">#40fac637</color>
+    <color name="coui_color_secondary_yellow_dark"> @*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_yellow_light">#26ffb200</color>
     <color name="coui_color_success">@*android:color/accent_material_dark</color>
     <color name="coui_color_success_dark">@*android:color/accent_material_dark</color>

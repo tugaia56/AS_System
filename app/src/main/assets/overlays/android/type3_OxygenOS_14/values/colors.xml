@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="notification_default_color">#ffffffff</color>
-    <color name="notification_primary_text_color_dark">#ffffffff</color>								<!-- nome e icona app - pulsanti -->
-    <color name="notification_primary_text_color_light">#ff000000</color>							    <!-- testo pulsanti -->
-    <color name="notification_secondary_text_color_dark">@*android:color/white</color>					<!-- Titolo e sfondo pulsanti -->
-    <color name="notification_secondary_text_color_light">#ffffffff</color>								<!-- testo nome app e opzioni -->
-    <color name="notification_progress_background_color">#ffd8d8d8</color>								<!-- testo intero mail, corpo -->
-    <color name="resolver_empty_state_icon">#ffffffff</color>
-    <color name="resolver_empty_state_text">#ffffffff</color>
-	
     <color name="accent_material_light">@*android:color/accent_material_dark</color>
     <color name="darker_gray">#ffaeafb1</color>
     <color name="white">#ffffffff</color>
@@ -66,7 +57,7 @@
     <color name="system_accent2_50">#ffffffff</color>
     <color name="system_accent2_100">@*android:color/accent_material_dark</color>
     <color name="system_accent2_200">@*android:color/accent_material_dark</color>
-    <color name="system_accent2_300">@*android:color/accent_material_dark</color>
+    <color name="system_accent2_300">@*android:color/white</color>
     <color name="system_accent2_400">@*android:color/background_leanback_dark</color>
     <color name="system_accent2_500">@*android:color/background_holo_dark</color>
     <color name="system_accent2_600">@*android:color/holo_light_primary_dark</color>
@@ -207,7 +198,7 @@
     <color name="accessibility_magnification_thumbnail_background_color">#b3ffffff</color>
     <color name="accessibility_magnification_thumbnail_container_background_color">#99000000</color>
     <color name="accessibility_magnification_thumbnail_container_stroke_color">#ffffffff</color>
-    <color name="accessibility_magnification_thumbnail_stroke_color">#ff0c0c0c</color>
+    <color name="accessibility_magnification_thumbnail_stroke_color">@*android:color/background_dark</color>
     <color name="autofilled_highlight">@*android:color/ripple_material_dark</color>
     <color name="background_holo_light">#fff3f3f3</color>
     <color name="bright_foreground_dark_disabled">#80ffffff</color>
@@ -232,6 +223,8 @@
     <color name="car_blue_700">@*android:color/accent_material_dark</color>
     <color name="car_blue_800">@*android:color/accent_material_dark</color>
     <color name="car_blue_900">@*android:color/accent_material_dark</color>
+    <color name="car_blue_grey_800">#ff37474f</color>
+    <color name="car_blue_grey_900">#ff263238</color>
     <color name="car_card_ripple_background_dark">@*android:color/ripple_material_dark</color>
     <color name="car_card_ripple_background_light">@*android:color/ripple_material_dark</color>
     <color name="car_cyan_100">#ffffffff</color>
@@ -317,6 +310,8 @@
     <color name="car_purple_500">@*android:color/accent_material_dark</color>
     <color name="car_purple_600">@*android:color/accent_material_dark</color>
     <color name="car_purple_700">@*android:color/accent_material_dark</color>
+    <color name="car_purple_800">@*android:color/accent_material_dark</color>
+    <color name="car_purple_900">@*android:color/accent_material_dark</color>
     <color name="car_red_100">#ffffffff</color>
     <color name="car_red_200">@*android:color/accent_material_dark</color>
     <color name="car_red_300">@*android:color/accent_material_dark</color>
@@ -472,9 +467,15 @@
     <color name="notification_action_button_text_color">@*android:color/accent_material_dark</color>
     <color name="notification_action_list">@*android:color/accent_material_dark</color>
     <color name="notification_action_list_background_color">@null</color>
+    <color name="notification_default_color">#ffffffff</color>
     <color name="notification_default_color_dark">#ddffffff</color>
     <color name="notification_default_color_light">#a3202124</color>
     <color name="notification_expand_button_pill_color">#0a000000</color>
+    <color name="notification_primary_text_color_dark">#ffffffff</color>								<!-- nome e icona app - pulsanti -->
+    <color name="notification_primary_text_color_light">#ff000000</color>							    <!-- testo pulsanti -->
+    <color name="notification_progress_background_color">#ffd8d8d8</color>								<!-- testo intero mail, corpo -->
+    <color name="notification_secondary_text_color_dark">@*android:color/white</color>					<!-- Titolo e sfondo pulsanti -->
+    <color name="notification_secondary_text_color_light">#ffffffff</color>								<!-- testo nome app e opzioni -->
     <color name="perms_dangerous_grp_color">@*android:color/accent_material_dark</color>
     <color name="perms_dangerous_perm_color">@*android:color/accent_material_dark</color>
     <color name="personal_apps_suspension_notification_color">@*android:color/accent_material_dark</color>
@@ -488,9 +489,7 @@
     <color name="profile_badge_2_dark">@*android:color/accent_material_dark</color>
     <color name="profile_badge_3">@*android:color/accent_material_dark</color>
     <color name="profile_badge_3_dark">@*android:color/accent_material_dark</color>
-    <color name="red">#ffff0000</color>
-    <color name="resize_shadow_end_color">#00000000</color>
-    <color name="resize_shadow_start_color">#c3000000</color>
+    <color name="red">@*android:color/accent_material_dark</color>
     <color name="resolver_text_color_secondary_dark">#ffc4c6c6</color>
     <color name="safe_mode_text">#80ffffff</color>
     <color name="search_url_text_normal">@*android:color/accent_material_dark</color>

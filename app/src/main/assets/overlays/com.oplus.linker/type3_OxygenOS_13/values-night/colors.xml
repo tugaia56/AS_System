@@ -89,8 +89,8 @@
     <color name="couiSkyblueTintLightNormal">#4d38d7d5</color>
     <color name="couiSkyblueTintLightPressed">#4d29ccca</color>
     <color name="couiTextGreenHighlight">#4c4f67d2</color>
-    <color name="couiYellowFifthLightNormal">#40fac637</color>
-    <color name="couiYellowFifthNormal">#fffac637</color>
+    <color name="couiYellowFifthLightNormal"> @*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="couiYellowFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiYellowFifthOnPopupNormal">#fffacb4b</color>
     <color name="couiYellowFifthTextNormal">#fff2bf30</color>
     <color name="couiYellowFirstLightNormal">#4df2bf41</color>
@@ -155,7 +155,7 @@
     <color name="coui_color_primary_text_orange">#fffe7848</color>
     <color name="coui_color_primary_text_red">#fff04848</color>
     <color name="coui_color_primary_text_yellow">#fff2bf30</color>
-    <color name="coui_color_primary_yellow">#fffac637</color>
+    <color name="coui_color_primary_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_ripple_press_background">@*android:color/ripple_material_dark</color>
     <color name="coui_color_secondary_blue">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_green">@*android:color/keyguard_avatar_frame_pressed_color</color>

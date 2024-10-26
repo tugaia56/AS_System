@@ -89,7 +89,7 @@
     <color name="system_accent2_50">#ffffffff</color>
     <color name="system_accent2_100">@*android:color/accent_material_dark</color>
     <color name="system_accent2_200">@*android:color/accent_material_dark</color>
-    <color name="system_accent2_300">@*android:color/accent_material_dark</color>
+    <color name="system_accent2_300">@*android:color/white</color>
     <color name="system_accent2_400">@*android:color/background_leanback_dark</color>
     <color name="system_accent2_500">@*android:color/background_holo_dark</color>
     <color name="system_accent2_600">@*android:color/holo_light_primary_dark</color>

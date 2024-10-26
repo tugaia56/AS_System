@@ -1814,7 +1814,7 @@
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="sad_color">#ffbf3434</color>
     <color name="scan_score_blue_text_color">#ff1e7235</color>
-    <color name="scan_score_green_btn_color">#ff33b054</color>
+    <color name="scan_score_green_btn_color">@*android:color/accent_material_dark</color>
     <color name="scan_score_orange_text_color">#ffdd5d2f</color>
     <color name="scan_score_red_btn_color">#ffed4040</color>
     <color name="scan_score_red_text_color">#ffcc2923</color>

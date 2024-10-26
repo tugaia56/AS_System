@@ -29,11 +29,11 @@
     <color name="C27">@*android:color/background_dark</color>
     <color name="C28">@*android:color/background_dark</color>
     <color name="SIM_color_blue800">@*android:color/accent_material_dark</color>
-    <color name="SIM_color_cyan">#ff006d74</color>
-    <color name="SIM_color_green800">#ff137333</color>
-    <color name="SIM_color_orange">#ff995400</color>
-    <color name="SIM_color_pink800">#ffb80672</color>
-    <color name="SIM_color_purple800">#ff7627bb</color>
+    <color name="SIM_color_cyan">@*android:color/accent_material_dark</color>
+    <color name="SIM_color_green800">@*android:color/accent_material_dark</color>
+    <color name="SIM_color_orange">@*android:color/accent_material_dark</color>
+    <color name="SIM_color_pink800">@*android:color/accent_material_dark</color>
+    <color name="SIM_color_purple800">@*android:color/accent_material_dark</color>
     <color name="SIM_dark_mode_color_blue">@*android:color/accent_material_dark</color>
     <color name="SIM_dark_mode_color_cyan">@*android:color/accent_material_dark</color>
     <color name="SIM_dark_mode_color_green">@*android:color/accent_material_dark</color>

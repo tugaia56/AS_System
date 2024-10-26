@@ -10,10 +10,10 @@
     <color name="banner_background_attention_high">#ff3b2d2c</color>
     <color name="banner_background_attention_low">#ff2b3328</color>
     <color name="banner_background_attention_medium">#ff333121</color>
-    <color name="battery_progress_normal">#26ffffff</color>
+    <color name="battery_progress_normal">#38ffffff</color>
     <color name="biometric_dialog_error">#fff28b82</color>
     <color name="biometric_dialog_gray">#ffcccccc</color>
-    <color name="bottom_recommended_recycler_view_bg">@*android:color/button_material_dark</color>
+    <color name="bottom_recommended_recycler_view_bg">#1affffff</color>
     <color name="bottom_recommended_title_common">#ffffffff</color>
     <color name="bottom_recommended_title_head">#73ffffff</color>
     <color name="bubble_dismiss_normal">#b3333333</color>
@@ -36,7 +36,7 @@
     <color name="couiBlueTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueTintControlPressed">#ff135ec4</color>
     <color name="couiBlueTintLightNormal">#4d007aff</color>
-    <color name="couiBlueTintLightPressed">#4d006ee6</color>
+    <color name="couiBlueTintLightPressed"> @*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="couiDefaultBarDisabledColorP">#4d4f67d2</color>
     <color name="couiDefaultPrimaryP">@*android:color/accent_material_dark</color>
     <color name="couiDefaultSecondaryP">#264f67d2</color>
@@ -100,8 +100,8 @@
     <color name="couiSkyblueTintControlDisabled">#4dffffff</color>
     <color name="couiSkyblueTintLightNormal">#4d38d7d5</color>
     <color name="couiSkyblueTintLightPressed">#4d29ccca</color>
-    <color name="couiYellowFifthLightNormal">#40fac637</color>
-    <color name="couiYellowFifthNormal">#fffac637</color>
+    <color name="couiYellowFifthLightNormal"> @*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="couiYellowFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiYellowFifthOnPopupNormal">#fffacb4b</color>
     <color name="couiYellowFifthTextNormal">#fff2bf30</color>
     <color name="couiYellowFirstLightNormal">#4df2bf41</color>
@@ -113,7 +113,7 @@
     <color name="couiYellowTintControlNormal">#ffffba19</color>
     <color name="couiYellowTintControlPressed">#ffcc9514</color>
     <color name="couiYellowTintLightNormal">#4dfac000</color>
-    <color name="couiYellowTintLightPressed">#4de1ac00</color>
+    <color name="couiYellowTintLightPressed">#33ffba19</color>
     <color name="coui_alert_dialog_background_tint">@*android:color/background_dark</color>
     <color name="coui_arrow_next_color">#33ffffff</color>
     <color name="coui_borderless_button_solid_color_disabled">#26ffffff</color>
@@ -322,7 +322,7 @@
     <color name="icon_black">#ffffffff</color>
     <color name="keyguard_land_clock_view_text_color">#d9ffffff</color>
     <color name="kg_user_switcher_avatar_icon_color">@*android:color/background_light</color>
-    <color name="lockscreen_notification_bg">#00000000</color>
+    <color name="lockscreen_notification_bg">#de000000</color>
     <color name="materialColorOnSurface">#ffe3e2e6</color>
     <color name="materialColorSurfaceContainerHigh">#ff292a2d</color>
     <color name="media_divider">#85ffffff</color>
@@ -354,8 +354,8 @@
     <color name="notification_material_background_dimmed_color_active">@*android:color/transparent</color>
     <color name="notification_material_background_dimmed_color_active_compass">@*android:color/transparent</color>
     <color name="notification_material_background_dimmed_color_compass">@*android:color/transparent</color>
-    <color name="notification_material_blur_bg">@*android:color/transparent</color>
-    <color name="notification_menu_icon_background">#0fffffff</color>
+     <color name="notification_material_blur_bg">#cc333333</color>
+    <color name="notification_menu_icon_background">#cc333333</color>
     <color name="notification_menu_icon_keyguard_background">@*android:color/background_dark</color>
     <color name="notification_popup_menu_app_name_color">#8affffff</color>
     <color name="notification_popup_menu_divider_color">#1fffffff</color>
@@ -378,7 +378,7 @@
     <color name="notification_shade_background_color">@*android:color/background_dark</color>
     <color name="notification_shade_background_color_compass">@*android:color/background_dark</color>
     <color name="notification_shade_panel_bg_mask_color">@*android:color/background_dark</color>
-    <color name="notification_text_color">#d9ffffff</color>
+    <color name="notification_text_color">#8cffffff</color>
     <color name="notification_title_text_color">#d9ffffff</color>
     <color name="op_pm_qs_container_bg">#ff10141a</color>
     <color name="op_stroke">@*android:color/accent_material_dark</color>

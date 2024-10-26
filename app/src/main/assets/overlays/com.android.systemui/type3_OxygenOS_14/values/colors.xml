@@ -4,9 +4,9 @@
     <color name="GM2_grey_100">#fff1f3f4</color>
     <color name="GM2_grey_200">#ffe8eaed</color>
     <color name="GM2_grey_300">#ffdadce0</color>
-    <color name="GM2_grey_500">#ff9aa0a6</color>
-    <color name="GM2_grey_600">#ff80868b</color>
-    <color name="GM2_grey_700">#ff5f6368</color>
+    <color name="GM2_grey_500">@*android:color/background_leanback_dark</color>
+    <color name="GM2_grey_600">@*android:color/holo_light_primary_dark</color>
+    <color name="GM2_grey_700">@*android:color/button_material_dark</color>
     <color name="GM2_grey_800">@*android:color/background_dark</color>
     <color name="GM2_grey_900">@*android:color/background_dark</color>
     <color name="GM2_red_300">@*android:color/accent_material_dark</color>
@@ -1174,6 +1174,8 @@
     <color name="kgd_color_numeric_keyboard_dark_number_press_color">@*android:color/background_dark</color>
     <color name="kgd_color_numeric_keyboard_dark_word_text_normal_color">@*android:color/accent_material_dark</color>
     <color name="kgd_color_numeric_keyboard_dark_word_text_press_color">#4d000000</color>
+    <color name="kgd_color_numeric_keyboard_setting_background_color">#33ffffff</color>
+    <color name="kgd_color_numeric_keyboard_side_setting_background_color">#33ffffff</color>
     <color name="kgd_color_simple_lock_filled_rectangle_icon_color">#ffffffff</color>
     <color name="kgd_color_simple_lock_outlined_rectangle_icon_color">#26ffffff</color>
     <color name="kgd_edit_text_background_line_color">#33ffffff</color>
@@ -1205,7 +1207,7 @@
     <color name="kgd_show_password_button_background_normal_color_dark">#33000000</color>
     <color name="kgd_show_password_button_background_pressed_color">#1affffff</color>
     <color name="kgd_show_password_button_background_pressed_color_dark">#1a000000</color>
-    <color name="kgd_show_password_button_text_bg_color">@*android:color/accent_material_dark</color>
+    <color name="kgd_show_password_button_text_bg_color">#4dffffff</color>
     <color name="kgd_show_password_button_text_normal_color">#ffffffff</color>
     <color name="kgd_show_password_button_text_normal_color_dark">@*android:color/background_dark</color>
     <color name="kgd_show_password_button_text_pressed_color">@*android:color/ripple_material_dark</color>
@@ -1707,8 +1709,8 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="section_header_expand_button_color">#ffffffff</color>
-    <color name="section_header_rounded_bg_color">@*android:color/transparent</color>
+    <color name="section_header_expand_button_color">#d9000000</color>
+    <color name="section_header_rounded_bg_color">#0f000000</color>
     <color name="seed_background_color">#ccffffff</color>
     <color name="seed_background_color_opaque">#ffffffff</color>
     <color name="seed_blur_background_color">#c5ffffff</color>
@@ -1983,7 +1985,7 @@
     <color name="surface_personalise_normal">#fff0f2f5</color>
     <color name="switchCheckedBlueBarDisabledColor">@*android:color/ripple_material_dark</color>
     <color name="switchCheckedBlueInnerCircleDisabledColor">@*android:color/ripple_material_dark</color>
-    <color name="switchCheckedGreenBarDisabledColor">#26c41442</color>
+    <color name="switchCheckedGreenBarDisabledColor">#2639bf56</color>
     <color name="switchCheckedGreenInnerCircleDisabledColor">#4d2ec84e</color>
     <color name="switchCheckedOrangeBarDisabledColor">#4dfd8326</color>
     <color name="switchCheckedOrangeInnerCircleDisabledColor">#4dfd8326</color>
@@ -1993,11 +1995,11 @@
     <color name="switchCheckedSkyblueInnerCircleDisabledColor">#4d38d7d5</color>
     <color name="switchCheckedYellowBarDisabledColor">#4dffbb0e</color>
     <color name="switchCheckedYellowInnerCircleDisabledColor">#4dffbb0e</color>
-    <color name="switch_outer_circle_check_disable_color">#ffffffff</color>
+    <color name="switch_outer_circle_check_disable_color">#8affffff</color>
     <color name="switch_outer_circle_color">#ffffffff</color>
-    <color name="switch_outer_circle_disable_color">#ffffffff</color>
-    <color name="switch_outer_circle_disable_dark_color">#80ffffff</color>
-    <color name="switch_outer_circle_disable_light_color">#ffffffff</color>
+    <color name="switch_outer_circle_disable_color">#8affffff</color>
+    <color name="switch_outer_circle_disable_dark_color">#4dffffff</color>
+    <color name="switch_outer_circle_disable_light_color">#8affffff</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>

@@ -361,7 +361,7 @@
     <color name="system_neutral2_100">@*android:color/accent_material_dark</color>
     <color name="system_neutral2_200">#ffc0c7cd</color>
     <color name="system_neutral2_300">#ffa5acb2</color>
-    <color name="system_neutral2_400">#ff8a9297</color>
+    <color name="system_neutral2_400">@*android:color/background_leanback_dark</color>
     <color name="system_neutral2_500">@*android:color/background_dark</color>
     <color name="system_neutral2_600">@*android:color/button_material_dark</color>
     <color name="system_neutral2_700">@*android:color/background_dark</color>
@@ -386,7 +386,7 @@
     <color name="system_accent2_50">@*android:color/accent_material_dark</color>
     <color name="system_accent2_100">@*android:color/accent_material_dark</color>
     <color name="system_accent2_200">#ffb5cad7</color>
-    <color name="system_accent2_300">@*android:color/accent_material_dark</color>
+    <color name="system_accent2_300">@*android:color/white</color>
     <color name="system_accent2_400">#ff8094a0</color>
     <color name="system_accent2_500">#ff657985</color>
     <color name="system_accent2_600">#ff4e616c</color>

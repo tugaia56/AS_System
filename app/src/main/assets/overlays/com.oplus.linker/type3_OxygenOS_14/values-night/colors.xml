@@ -3,8 +3,8 @@
     <color name="bottom_recommended_recycler_view_bg">@*android:color/button_material_dark</color>
     <color name="bottom_recommended_title_common">#ffffffff</color>
     <color name="bottom_recommended_title_head">#73ffffff</color>
-    <color name="couiBlueFifthLightNormal">#4033b054</color>
-    <color name="couiBlueFifthNormal">#ff33b054</color>
+    <color name="couiBlueFifthLightNormal"> @*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="couiBlueFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueFifthOnPopupNormal">#ff3eb25d</color>
     <color name="couiBlueFifthTextNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueFirstLightNormal">@*android:color/ripple_material_dark</color>
@@ -81,8 +81,8 @@
     <color name="couiSkyblueTintControlDisabled">#4dffffff</color>
     <color name="couiSkyblueTintLightNormal">#4d38d7d5</color>
     <color name="couiSkyblueTintLightPressed">#4d29ccca</color>
-    <color name="couiYellowFifthLightNormal">#40fac637</color>
-    <color name="couiYellowFifthNormal">#fffac637</color>
+    <color name="couiYellowFifthLightNormal"> @*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="couiYellowFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiYellowFifthOnPopupNormal">#fffacb4b</color>
     <color name="couiYellowFifthTextNormal">#fff2bf30</color>
     <color name="couiYellowFirstLightNormal">#4df2bf41</color>
@@ -165,7 +165,7 @@
     <color name="coui_color_primary_text_orange">#fffe7848</color>
     <color name="coui_color_primary_text_red">#fff04848</color>
     <color name="coui_color_primary_text_yellow">#fff2bf30</color>
-    <color name="coui_color_primary_yellow">#fffac637</color>
+    <color name="coui_color_primary_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_ripple_press_background">@*android:color/ripple_material_dark</color>
     <color name="coui_color_secondary_blue">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_green">@*android:color/keyguard_avatar_frame_pressed_color</color>
