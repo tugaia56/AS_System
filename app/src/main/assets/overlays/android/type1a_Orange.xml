@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="system_accent1_600">#E0610E</color>
+    <color name="accent_material_light">#E0610E</color>
     <color name="accent_material_dark">#E0610E</color>
     <color name="keyguard_avatar_frame_pressed_color">#40E0610E</color>
     <color name="holo_red_light">#ccE0610E</color>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="notification_material_background_media_default_color">#00000000</color>
     <color name="GM2_blue_300">@*android:color/accent_material_dark</color>
     <color name="GM2_grey_100">#fff1f3f4</color>
     <color name="GM2_grey_200">#ffe8eaed</color>
