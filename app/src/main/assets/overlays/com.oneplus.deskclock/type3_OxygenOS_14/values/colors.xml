@@ -451,9 +451,9 @@
     <color name="coui_color_assist_azure">#ff45abe5</color>
     <color name="coui_color_assist_azure_dark">#ff3d98cc</color>
     <color name="coui_color_assist_azure_light">#ff45abe5</color>
-    <color name="coui_color_assist_blue">#ff5c93e5</color>
-    <color name="coui_color_assist_blue_dark">#ff5c93e5</color>
-    <color name="coui_color_assist_blue_light">#ff5c93e5</color>
+    <color name="coui_color_assist_blue">@*android:color/holo_blue_light</color>
+    <color name="coui_color_assist_blue_dark">@*android:color/holo_blue_light</color>
+    <color name="coui_color_assist_blue_light">@*android:color/holo_blue_light</color>
     <color name="coui_color_assist_cyan">#ff39afbd</color>
     <color name="coui_color_assist_cyan_dark">#ff329da8</color>
     <color name="coui_color_assist_cyan_light">#ff39afbd</color>

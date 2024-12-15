@@ -1622,7 +1622,7 @@
     <color name="feedback_dialog_separator_line_night">#1affffff</color>
     <color name="feedback_green">#ff3de092</color>
     <color name="feedback_light_hint_color">#ffb2b2b2</color>
-    <color name="feedback_night_bg_color">#ff1a1a1a</color>
+    <color name="feedback_night_bg_color">@*android:color/background_dark</color>
     <color name="feedback_night_hint_color">#ff6b6b6b</color>
     <color name="float_shadow">#20000000</color>
     <color name="float_window_pad_start_color">#ffffffff</color>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <group android:pivotX="24.0" android:pivotY="24.0" android:scaleX="1.1" android:scaleY="1.1">
-        <path android:fillColor="#ffffffff" android:pathData="M27.47,24l7.58-7.59a2.11,2.11,0,0,0,0-3L26.69,5.07a2.08,2.08,0,0,0-3,0,2.11,2.11,0,0,0,0,3l6.88,6.9L24.52,21,17,13.45a2.09,2.09,0,1,0-3,3L21.57,24,14,31.59a2.11,2.11,0,0,0,0,3,2.08,2.08,0,0,0,3,0L24.52,27l6.1,6.11L23.74,40a2.11,2.11,0,0,0,0,3,2.07,2.07,0,0,0,1.48 0.61 ,2.05,2.05,0,0,0,1.47-0.61l8.36-8.38a2.11,2.11,0,0,0,0-3Z" />
-        <path android:fillColor="#ffffffff" android:pathData="M 9.33 20.99 C 10.992377097 20.99 12.34 22.337622903 12.34 24 C 12.34 25.662377097 10.992377097 27.01 9.33 27.01 C 7.66762290301 27.01 6.32 25.662377097 6.32 24 C 6.32 22.337622903 7.66762290301 20.99 9.33 20.99 Z" />
-        <path android:fillColor="#ffffffff" android:pathData="M 38.67 20.99 C 40.332377097 20.99 41.68 22.337622903 41.68 24 C 41.68 25.662377097 40.332377097 27.01 38.67 27.01 C 37.007622903 27.01 35.66 25.662377097 35.66 24 C 35.66 22.337622903 37.007622903 20.99 38.67 20.99 Z" />
-    </group>
-</vector>

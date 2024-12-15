@@ -1158,7 +1158,7 @@
     <color name="divider_meun_button_path_color">@*android:color/background_dark</color>
     <color name="divider_meun_button_press_background_color">#fff2f2f2</color>
     <color name="divider_meun_item_title_color">@*android:color/background_dark</color>
-    <color name="docked_divider_background">#ff1a1a1a</color>
+    <color name="docked_divider_background">@*android:color/background_dark</color>
     <color name="docked_divider_handle">#ffffffff</color>
     <color name="docked_divider_handle_folder">#d8ffffff</color>
     <color name="drop_outline_background">#330000ff</color>

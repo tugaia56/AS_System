@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="kgd_color_numeric_keyboard_setting_background_color">@*android:color/car_blue_grey_800</color>
-    <color name="kgd_color_numeric_keyboard_side_setting_background_color">@*android:color/ripple_material_dark</color>
-</resources>

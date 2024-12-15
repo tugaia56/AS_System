@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="kgd_color_numeric_keyboard_setting_background_color">@*android:color/accent_material_dark</color>
-    <color name="kgd_color_numeric_keyboard_side_setting_background_color">@*android:color/accent_material_dark</color>
-</resources>
