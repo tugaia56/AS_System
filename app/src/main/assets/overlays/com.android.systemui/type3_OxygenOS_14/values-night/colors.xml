@@ -20,7 +20,7 @@
     <color name="chip_checked_background_color">#d9ffffff</color>
     <color name="chip_checked_text_color">#d9000000</color>
     <color name="chip_unchecked_background_color">#1affffff</color>
-    <color name="clear_all_bg_color">#ff555555</color>
+    <color name="clear_all_bg_color">@*android:color/button_material_dark</color>
     <color name="close_btn_bg">@*android:color/background_dark</color>
     <color name="couiBlueFifthLightNormal">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="couiBlueFifthNormal">@*android:color/accent_material_dark</color>
@@ -65,7 +65,7 @@
     <color name="couiOrangeFourthLightNormal">#4d99725c</color>
     <color name="couiOrangeSecondLightNormal">#4daf6533</color>
     <color name="couiOrangeThirdLightNormal">#4dff661a</color>
-    <color name="couiOrangeTintControlNormal">#fffe7c48</color>
+    <color name="couiOrangeTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedFifthLightNormal">#40ea3939</color>
     <color name="couiRedFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedFifthOnPopupNormal">@*android:color/accent_material_dark</color>
@@ -76,7 +76,7 @@
     <color name="couiRedThirdLightNormal">#4dde2b70</color>
     <color name="couiRedThirdNormal">#ffde2b70</color>
     <color name="couiRedTintControlDisabled">#33ffffff</color>
-    <color name="couiRedTintControlNormal">#ffed413b</color>
+    <color name="couiRedTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedTintLightNormal">#33ea3447</color>
     <color name="couiRedTintLightPressed">#33e81d32</color>
     <color name="couiSingleEighthLightNormal">#4d7e70ff</color>
@@ -95,7 +95,7 @@
     <color name="couiSkyBlueFifthTextNormal">#ffa539ff</color>
     <color name="couiSkyBlueFirstLightNormal">#4d4696b4</color>
     <color name="couiSkyBlueFourthLightNormal">#4dd7c9af</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueThirdLightNormal">#4dddb4b5</color>
     <color name="couiSkyblueTintControlDisabled">#4dffffff</color>
     <color name="couiSkyblueTintLightNormal">#4d38d7d5</color>
@@ -110,8 +110,8 @@
     <color name="couiYellowSecondLightNormal">#4db28e2b</color>
     <color name="couiYellowThirdLightNormal">#4dffc61a</color>
     <color name="couiYellowTintControlDisabled">#33ffffff</color>
-    <color name="couiYellowTintControlNormal">#ffffba19</color>
-    <color name="couiYellowTintControlPressed">#ffcc9514</color>
+    <color name="couiYellowTintControlNormal">@*android:color/accent_material_dark</color>
+    <color name="couiYellowTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiYellowTintLightNormal">#4dfac000</color>
     <color name="couiYellowTintLightPressed">#33ffba19</color>
     <color name="coui_alert_dialog_background_tint">@*android:color/background_dark</color>
@@ -194,7 +194,7 @@
     <color name="coui_color_primary_text_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_green">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_orange">#fff08222</color>
-    <color name="coui_color_primary_text_red">#ffff6c61</color>
+    <color name="coui_color_primary_text_red">@*android:color/holo_blue_light</color>
     <color name="coui_color_primary_text_yellow">#ffe5a100</color>
     <color name="coui_color_primary_yellow">#ffe5a100</color>
     <color name="coui_color_ripple_press_background">@*android:color/ripple_material_dark</color>
@@ -380,7 +380,7 @@
     <color name="notification_shade_panel_bg_mask_color">@*android:color/background_dark</color>
     <color name="notification_text_color">#8cffffff</color>
     <color name="notification_title_text_color">#d9ffffff</color>
-    <color name="op_pm_qs_container_bg">#ff10141a</color>
+    <color name="op_pm_qs_container_bg">@*android:color/background_dark</color>
     <color name="op_stroke">@*android:color/accent_material_dark</color>
     <color name="oplus_biometric_button_text_color">#ffffffff</color>
     <color name="oplus_biometric_dialog_desp_text_color">#ffaaaaaa</color>

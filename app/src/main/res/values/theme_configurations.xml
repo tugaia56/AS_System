@@ -20,9 +20,9 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 4.7.2</item>
+        <item>Version 5.0.0</item>
         <item>ADDED:</item>
-        <item>- - -</item>
+        <item>Overlay for OxygenOS 15</item>
         <item>UPDATED:</item>
         <item>Manage Notifications v14.99.16.19</item>
     </string-array>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="toggle_bar_apply_btn_enabled_color">@*android:color/background_dark</color>
-    <color name="toggle_bar_apply_btn_enabled_color_bright">@*android:color/background_dark</color>
-    <color name="toggle_bar_apply_btn_disabled_color">@*android:color/group_button_dialog_pressed_holo_light</color>
-    <color name="toggle_bar_apply_btn_disabled_color_bright">@*android:color/group_button_dialog_pressed_holo_light</color>
-</resources>

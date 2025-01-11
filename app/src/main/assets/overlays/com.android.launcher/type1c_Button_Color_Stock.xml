@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <color name="toggle_bar_apply_btn_disabled_color">#26ffffff</color>
-    <color name="toggle_bar_apply_btn_disabled_color_bright">#26000000</color>
-    <color name="toggle_bar_apply_btn_enabled_color">#4dffffff</color>
-    <color name="toggle_bar_apply_btn_enabled_color_bright">#4d000000</color>	
-</resources>
