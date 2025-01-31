@@ -194,7 +194,7 @@
     <color name="coui_color_primary_text_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_green">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_orange">#fff08222</color>
-    <color name="coui_color_primary_text_red">@*android:color/holo_blue_light</color>
+    <color name="coui_color_primary_text_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_yellow">#ffe5a100</color>
     <color name="coui_color_primary_yellow">#ffe5a100</color>
     <color name="coui_color_ripple_press_background">@*android:color/ripple_material_dark</color>
@@ -363,7 +363,7 @@
     <color name="notification_popup_menu_title_color">#ffffffff</color>
     <color name="notification_primary_text_color">#d9ffffff</color>
     <color name="notification_progress_color">#ffffffff</color>
-    <color name="notification_ripple_untinted_color">#30ffffff</color>
+    <color name="notification_ripple_untinted_color">@*android:color/ripple_material_dark</color>
     <color name="notification_rounded_background_normal_color">#0affffff</color>
     <color name="notification_scrim_bg_mask_color_in_low_gauss_level">@*android:color/background_dark</color>
     <color name="notification_section_color">#ffffffff</color>
@@ -404,8 +404,8 @@
     <color name="privacy_dialog_chevron_color">#ffffffff</color>
     <color name="progress_background_color">#1affffff</color>
     <color name="qs_coui_common_primary_light_color">#d9ffffff</color>
-    <color name="qs_flashlight_secondary_brightness_base">#80404040</color>
-    <color name="qs_flashlight_secondary_brightness_base_with_power_saving">#80404040</color>
+    <color name="qs_flashlight_secondary_brightness_base">@*android:color/group_button_dialog_pressed_holo_light</color>
+    <color name="qs_flashlight_secondary_brightness_base_with_power_saving">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="qs_flashlight_secondary_brightness_border_off">#4dffffff</color>
     <color name="qs_flashlight_secondary_brightness_border_on">#4d000000</color>
     <color name="qs_flashlight_secondary_brightness_off">#33ffffff</color>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <Accent name="system_accent1_600">#546e7a</Accent>
-    <Accent name="accent_material_light">#546e7a</Accent>
-    <Accent name="accent_material_dark">#546e7a</Accent>
-    <Accent name="keyguard_avatar_frame_pressed_Accent">#40546e7a</Accent>
-    <Accent name="holo_red_light">#cc546e7a</Accent>
-    <Accent name="highlighted_text_dark">#99546e7a</Accent>
-    <Accent name="highlighted_text_light">#99546e7a</Accent>
-    <Accent name="accessibility_focus_highlight_Accent">#bf546e7a</Accent>
-    <Accent name="holo_button_normal">#21546e7a</Accent>
-    <Accent name="ripple_material_dark">#80546e7a</Accent>
-    <Accent name="ripple_material_light">#66546e7a</Accent>
-    <Accent name="holo_blue_light">#253f4a</Accent>
+    <color name="system_accent1_600">#546e7a</color>
+    <color name="accent_material_light">#546e7a</color>
+    <color name="accent_material_dark">#546e7a</color>
+    <color name="keyguard_avatar_frame_pressed_color">#40546e7a</color>
+    <color name="holo_red_light">#cc546e7a</color>
+    <color name="highlighted_text_dark">#99546e7a</color>
+    <color name="highlighted_text_light">#99546e7a</color>
+    <color name="accessibility_focus_highlight_color">#bf546e7a</color>
+    <color name="holo_button_normal">#21546e7a</color>
+    <color name="ripple_material_dark">#80546e7a</color>
+    <color name="ripple_material_light">#66546e7a</color>
+    <color name="holo_blue_light">#253f4a</color>
 </resources>
