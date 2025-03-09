@@ -826,7 +826,7 @@
     <color name="couiSingleSecondBarDisabledPatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondBarDisabledRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatTextHighLightRepatchP">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightNormalPatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondLightNormalRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondLightPressedPatchP">@*android:color/accent_material_dark</color>
@@ -1252,8 +1252,8 @@
     <color name="coui_color_background_dark">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_controls">#33000000</color>
@@ -1328,7 +1328,7 @@
     <color name="coui_color_surface">#fffafafa</color>
     <color name="coui_color_surface_dark">@*android:color/background_dark</color>
     <color name="coui_color_surface_top">#ffffffff</color>
-    <color name="coui_color_surface_top_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_surface_top_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_surface_with_card">#fff5f5f5</color>
     <color name="coui_color_surface_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
@@ -1886,7 +1886,7 @@
     <color name="picture3d_sticker_gradient_view_color">@*android:color/background_dark</color>
     <color name="picture3d_sticker_item_normal_color">#33ffffff</color>
     <color name="picture3d_sticker_item_selected_color">#ffffffff</color>
-    <color name="picture3d_sticker_recycle_bin_delete_background_color">@*android:color/holo_primary</color>
+    <color name="picture3d_sticker_recycle_bin_delete_background_color">@*android:color/button_material_dark</color>
     <color name="picture3d_sticker_recycle_bin_delete_color">#ffffffff</color>
     <color name="picture3d_sticker_recycle_bin_delete_divider_color">#19ffffff</color>
     <color name="picture3d_sticker_recycle_bin_title_divider_color">#ffffffff</color>

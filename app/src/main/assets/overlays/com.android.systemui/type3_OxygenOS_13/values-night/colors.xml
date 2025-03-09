@@ -90,7 +90,7 @@
     <color name="couiSingleFirstLightNormal">#4dff6436</color>
     <color name="couiSingleFourthLightNormal">#4d66b92c</color>
     <color name="couiSingleNinthLightNormal">#4dc35570</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSeventhLightNormal">#4d007aff</color>
     <color name="couiSingleSixthLightNormal">#4dcd2638</color>
     <color name="couiSingleTenthLightNormal">#4d63e5a7</color>
@@ -151,7 +151,7 @@
     <color name="coui_color_additional_yellow">#fff2bf30</color>
     <color name="coui_color_background">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_controls">#4dffffff</color>
     <color name="coui_color_disabled_neutral">#4dffffff</color>
@@ -245,7 +245,7 @@
     <color name="coui_searchview_hint_bg_color_disabled">#13ffffff</color>
     <color name="coui_searchview_hint_bg_color_normal">#26ffffff</color>
     <color name="coui_seekbar_background_color_disabled">#1affffff</color>
-    <color name="coui_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="coui_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="coui_seekbar_progress_color_normal">#ff999999</color>
     <color name="coui_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="coui_seekbar_thumb_shadow_color">#33ffffff</color>
@@ -362,7 +362,7 @@
     <color name="oplus_controls_purple">#ff3a4466</color>
     <color name="oplus_controls_red">#ffb82938</color>
     <color name="oplus_controls_yellow">#ffcc8628</color>
-    <color name="oplus_password_edit_text_bg_color">@*android:color/holo_primary</color>
+    <color name="oplus_password_edit_text_bg_color">@*android:color/button_material_dark</color>
     <color name="oplus_password_text_color">#ffffffff</color>
     <color name="oplus_super_volume_seekbar_progress_end">#ffeb4556</color>
     <color name="oplus_super_volume_seekbar_progress_start">#d9ffffff</color>
@@ -403,7 +403,7 @@
     <color name="quick_settings_normal_text_color">#ffffffff</color>
     <color name="quick_settings_privacy_dialog_bg_color">@*android:color/background_dark</color>
     <color name="quick_settings_privacy_icon_color">#ffffffff</color>
-    <color name="remote_input_edit_bg_color">@*android:color/holo_primary_dark</color>
+    <color name="remote_input_edit_bg_color">@*android:color/button_material_dark</color>
     <color name="remote_input_hint">#ffbdbdbd</color>
     <color name="remote_input_text_enabled">#ffffffff</color>
     <color name="screenshot_float_btn_line_color">#d9ffffff</color>
@@ -430,7 +430,7 @@
     <color name="status_bar_qs_customize_mediaout_button_normal_color">#26ffffff</color>
     <color name="status_bar_qs_customize_mediaout_button_pressed_color">#4dffffff</color>
     <color name="status_bar_qs_customizer_title_color">#ffffffff</color>
-    <color name="status_bar_qs_detail_background">@*android:color/holo_primary</color>
+    <color name="status_bar_qs_detail_background">@*android:color/button_material_dark</color>
     <color name="status_bar_qs_detail_bg">@*android:color/background_dark</color>
     <color name="status_bar_qs_detail_buttons_background_color">@*android:color/accent_material_dark</color>
     <color name="status_bar_qs_detail_buttons_text_color">#ffffffff</color>

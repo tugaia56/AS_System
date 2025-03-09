@@ -236,7 +236,7 @@
     <color name="coui_btn_drawable_color_disabled">#1affffff</color>
     <color name="coui_btn_eye_color_normal">#ffb5b5b5</color>
     <color name="coui_btn_eye_slash_color_left_top">@*android:color/background_dark</color>
-    <color name="coui_btn_part_check_color_on_disabled">#ff262626</color>
+    <color name="coui_btn_part_check_color_on_disabled">@*android:color/background_leanback_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">@*android:color/background_dark</color>
     <color name="coui_btn_radio_background_color">#80999999</color>
     <color name="coui_btn_radio_color_disabled">#1affffff</color>
@@ -341,7 +341,7 @@
     <color name="coui_security_keyboard_special_key_bg_color">@*android:color/background_dark</color>
     <color name="coui_seekbar_background_color_disabled">#1affffff</color>
     <color name="coui_seekbar_background_color_normal">#1affffff</color>
-    <color name="coui_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="coui_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="coui_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="coui_seekbar_thumb_shadow_color">#33ffffff</color>
     <color name="coui_seekbar_tick_mark_color">#ff595959</color>

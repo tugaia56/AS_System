@@ -41,14 +41,14 @@
     <color name="aod_clock_tab1_pager2_pos5_text_color">#ff05ffa7</color>
     <color name="aod_clock_tab_color">#0d000000</color>
     <color name="aod_clock_text_color">@*android:color/accent_material_dark</color>
-    <color name="aod_clock_unfocus_color">@*android:color/holo_primary</color>
+    <color name="aod_clock_unfocus_color">@*android:color/button_material_dark</color>
     <color name="aod_clock_viewpager_id">#ff05ffa7</color>
     <color name="aod_clock_white">#ffffffff</color>
     <color name="aod_clock_white_20">#33ffffff</color>
     <color name="aod_clock_white_40">#66ffffff</color>
     <color name="aod_crop_mask_color">#b3000000</color>
     <color name="aod_cursor_color">#ff00ff00</color>
-    <color name="aod_divide_color">@*android:color/holo_primary</color>
+    <color name="aod_divide_color">@*android:color/button_material_dark</color>
     <color name="aod_edit_half_translucent">#7fffffff</color>
     <color name="aod_edit_line_color">#28ffffff</color>
     <color name="aod_edit_translucent">#80ffffff</color>
@@ -730,7 +730,7 @@
     <color name="couiSingleSecondBarDisabledPatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondBarDisabledRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatTextHighLightRepatchP">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightNormalPatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondLightNormalRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondLightPressedPatchP">@*android:color/accent_material_dark</color>
@@ -1156,8 +1156,8 @@
     <color name="coui_color_background_dark">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_controls">#33000000</color>
@@ -1230,7 +1230,7 @@
     <color name="coui_color_surface">#fffafafa</color>
     <color name="coui_color_surface_dark">@*android:color/background_dark</color>
     <color name="coui_color_surface_top">#ffffffff</color>
-    <color name="coui_color_surface_top_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_surface_top_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_surface_with_card">#fff5f5f5</color>
     <color name="coui_color_surface_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>

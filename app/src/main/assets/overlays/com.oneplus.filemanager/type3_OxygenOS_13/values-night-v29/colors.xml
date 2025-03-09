@@ -149,7 +149,7 @@
     <color name="couiSingleNinthNormalRepatchP">#ffb1362f</color>
     <color name="couiSingleNinthPressedRepatchP">#ffb1362f</color>
     <color name="couiSingleSecondBarDisabledRepatchP">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressedRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormalRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressedRepatchP">@*android:color/accent_material_dark</color>
@@ -245,7 +245,7 @@
     <color name="operation_snack_bg">#ffeeeeee</color>
     <color name="recent_arrow_color">#99ffffff</color>
     <color name="rlist_item_image_bg_color">#ffebebeb</color>
-    <color name="search_bg_color">@*android:color/holo_primary</color>
+    <color name="search_bg_color">@*android:color/button_material_dark</color>
     <color name="search_title_color">#d8ffffff</color>
     <color name="switchCheckedBlueBarDisabledColor">#264f67d2</color>
     <color name="switchCheckedGreenBarDisabledColor">#264f67d2</color>

@@ -10,9 +10,9 @@
             14.6667 0
             1 1
             -29.3334 0" android:strokeColor="#ff000000" android:strokeWidth="0.666667" android:strokeAlpha="1.0" />
-    <path android:fillColor="@*android:color/holo_primary" android:pathData="M11
+    <path android:fillColor="@*android:color/button_material_dark" android:pathData="M11
             14.25h8v1.5h-8z" />
-    <path android:fillColor="@*android:color/holo_primary" android:pathData="M15.75
+    <path android:fillColor="@*android:color/button_material_dark" android:pathData="M15.75
             11l-0
             8l-1.5
             0l-0

@@ -381,7 +381,7 @@
     <color name="couiSingleNinthPressed">#ffdf0c52</color>
     <color name="couiSingleNinthTextHighLight">#4cf42a6d</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressed">@*android:color/accent_material_dark</color>
@@ -532,7 +532,7 @@
     <color name="coui_btn_eye_slash_color_left_top">#ffffffff</color>
     <color name="coui_btn_eye_slash_dark_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_color_on_disabled">#ffd8d8d8</color>
-    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/holo_primary</color>
+    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/button_material_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_inner_color_on_normal">#ffffffff</color>
     <color name="coui_btn_part_check_inner_dark_color_on_disabled">@*android:color/background_dark</color>
@@ -575,7 +575,7 @@
     <color name="coui_common_warning_dark_color">@*android:color/accent_material_dark</color>
     <color name="coui_common_warning_light_color">@*android:color/accent_material_dark</color>
     <color name="coui_compoundbutton_textcolor_disable">#4c999d9c</color>
-    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/holo_primary</color>
+    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/button_material_dark</color>
     <color name="coui_control_id_bg_color">#ffffffff</color>
     <color name="coui_control_id_bg_color_popup">#ffffffff</color>
     <color name="coui_control_id_day_of_week">#4d000000</color>
@@ -1215,7 +1215,7 @@
     <color name="picture3d_sticker_category_item_separator_color">#4cffffff</color>
     <color name="picture3d_sticker_item_normal_color">#33ffffff</color>
     <color name="picture3d_sticker_item_selected_color">#ffffffff</color>
-    <color name="picture3d_sticker_recycle_bin_delete_background_color">@*android:color/holo_primary</color>
+    <color name="picture3d_sticker_recycle_bin_delete_background_color">@*android:color/button_material_dark</color>
     <color name="picture3d_sticker_recycle_bin_delete_color">#ffffffff</color>
     <color name="picture3d_sticker_recycle_bin_delete_divider_color">#19ffffff</color>
     <color name="picture3d_sticker_recycle_bin_title_divider_color">#ffffffff</color>

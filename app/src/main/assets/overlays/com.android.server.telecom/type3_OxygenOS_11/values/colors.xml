@@ -66,7 +66,7 @@
     <color name="datepicker_default_disabled_text_color_material_light">#80999999</color>
     <color name="datepicker_default_header_dayofweek_background_color_material_dark">@*android:color/white</color>
     <color name="datepicker_default_header_dayofweek_background_color_material_light">#ff999999</color>
-    <color name="datepicker_default_header_selector_background_material_dark">@*android:color/holo_primary</color>
+    <color name="datepicker_default_header_selector_background_material_dark">@*android:color/button_material_dark</color>
     <color name="datepicker_default_header_selector_background_material_light">@*android:color/white</color>
     <color name="datepicker_default_normal_text_color_material_dark">@*android:color/white</color>
     <color name="datepicker_default_normal_text_color_material_light">#ff999999</color>
@@ -74,7 +74,7 @@
     <color name="datepicker_default_pressed_text_color_material_light">@*android:color/accent_material_dark</color>
     <color name="datepicker_default_selected_text_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="datepicker_default_selected_text_color_material_light">@*android:color/accent_material_dark</color>
-    <color name="datepicker_default_view_animator_color_material_dark">@*android:color/holo_primary</color>
+    <color name="datepicker_default_view_animator_color_material_dark">@*android:color/button_material_dark</color>
     <color name="datepicker_default_view_animator_color_material_light">#fff2f2f2</color>
     <color name="datepicker_timepicker_header_selected_activated_text_color_dark">#ffffffff</color>
     <color name="datepicker_timepicker_header_selected_text_color_dark">#b7ffffff</color>
@@ -118,7 +118,7 @@
     <color name="dialer_theme_color_dark">#ff1c3aa9</color>
     <color name="dialog_header_color_background">@*android:color/background_dark</color>
     <color name="dialog_header_color_background_dark">@*android:color/background_dark</color>
-    <color name="dialpad_digits_text_color">@*android:color/holo_primary</color>
+    <color name="dialpad_digits_text_color">@*android:color/button_material_dark</color>
     <color name="dialpad_icon_tint">#ffb3b3b3</color>
     <color name="dialpad_icon_tint_dark">#8a000000</color>
     <color name="dialpad_secondary_text_color">#ff737373</color>
@@ -336,7 +336,7 @@
     <color name="op_settings_ab_bg_color">@*android:color/accent_material_dark</color>
     <color name="op_settings_color_accent">@*android:color/accent_material_dark</color>
     <color name="op_time_picker_am_pm_label_text_color_dark">#ffffffff</color>
-    <color name="op_time_picker_numbers_background_color_dark">@*android:color/holo_primary</color>
+    <color name="op_time_picker_numbers_background_color_dark">@*android:color/button_material_dark</color>
     <color name="op_time_picker_numbers_background_color_light">#ffffffff</color>
     <color name="opcardview_light_background_light">#ffffffff</color>
     <color name="opcardview_light_background_mask_light">#1e000000</color>
@@ -370,7 +370,7 @@
     <color name="timepicker_default_ampm_unselected_background_color_material">@*android:color/transparent</color>
     <color name="timepicker_default_numbers_background_color_material">@*android:color/transparent</color>
     <color name="timepicker_default_text_color_material">@*android:color/black</color>
-    <color name="timepicker_numbers_background_color_dark">@*android:color/holo_primary</color>
+    <color name="timepicker_numbers_background_color_dark">@*android:color/button_material_dark</color>
     <color name="timepicker_numbers_background_color_light">#ffffffff</color>
     <color name="timepicker_numbers_inner_text_color">#b7000000</color>
     <color name="timepicker_numbers_inner_text_color_dark">#89ffffff</color>

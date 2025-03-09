@@ -174,7 +174,7 @@
     <color name="couiSingleNinthLightPressed">#26f12868</color>
     <color name="couiSingleNinthTextHighLight">#4cf12868</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressed">@*android:color/accent_material_dark</color>
@@ -307,7 +307,7 @@
     <color name="coui_clickable_text_color_pressed">#ff006ee6</color>
     <color name="coui_clickable_text_color_selected">#ff006ee6</color>
     <color name="coui_compoundbutton_textcolor_disable">#4c999d9c</color>
-    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/holo_primary</color>
+    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/button_material_dark</color>
     <color name="coui_control_id_accent_color_amber_dark">#ff806300</color>
     <color name="coui_control_id_accent_color_amber_light">#ffffc700</color>
     <color name="coui_control_id_accent_color_blue_dark">@*android:color/accent_material_dark</color>

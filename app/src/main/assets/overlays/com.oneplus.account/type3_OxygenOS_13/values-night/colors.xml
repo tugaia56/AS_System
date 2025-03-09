@@ -211,7 +211,7 @@
     <color name="ac_color_FB6A35">#fffe7848</color>
     <color name="ac_color_global_bg">@*android:color/background_dark</color>
     <color name="ac_color_hint_server_error">@*android:color/accent_material_dark</color>
-    <color name="ac_color_record_bg">@*android:color/holo_primary</color>
+    <color name="ac_color_record_bg">@*android:color/button_material_dark</color>
     <color name="ac_color_toolbar_item_bg_color">#1affffff</color>
     <color name="ac_panel_global_bg">@*android:color/background_dark</color>
     <color name="ac_ui_color_85000000">#d9ffffff</color>
@@ -285,7 +285,7 @@
     <color name="color_8c000000">#8cffffff</color>
     <color name="color_979797">#ff686868</color>
     <color name="color_979797_opacity_30">#4b686868</color>
-    <color name="color_CCCCCC">@*android:color/holo_primary</color>
+    <color name="color_CCCCCC">@*android:color/button_material_dark</color>
     <color name="color_D9000000">#d9ffffff</color>
     <color name="color_D92AD181">#d92ed585</color>
     <color name="color_DFF8EC">#ff0f4d2f</color>
@@ -426,8 +426,8 @@
     <color name="coui_color_additional_yellow">#fff2bf30</color>
     <color name="coui_color_background">#ffffffff</color>
     <color name="coui_color_background_with_card">#ffffffff</color>
-    <color name="coui_color_card_background">#1affffff</color>
-    <color name="coui_color_card_pressed">#33ffffff</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_controls">#4dffffff</color>
     <color name="coui_color_disabled_neutral">#4dffffff</color>
     <color name="coui_color_divider">#33ffffff</color>
@@ -504,14 +504,14 @@
     <color name="ht_list_seletor_color_pressed">#08ffffff</color>
     <color name="icon_black">#ffffffff</color>
     <color name="light_blue">#ff6a7ea8</color>
-    <color name="list_item_background_select">@*android:color/holo_primary</color>
-    <color name="mine_color_press_status">@*android:color/holo_primary</color>
+    <color name="list_item_background_select">@*android:color/button_material_dark</color>
+    <color name="mine_color_press_status">@*android:color/button_material_dark</color>
     <color name="mine_divider_color">#33ffffff</color>
     <color name="mine_summary_color">#8cffffff</color>
     <color name="mul_color_1A000000">#1affffff</color>
-    <color name="mul_color_phone_bg_normal">@*android:color/holo_primary</color>
+    <color name="mul_color_phone_bg_normal">@*android:color/button_material_dark</color>
     <color name="mul_color_phone_bg_pressed">#26ffffff</color>
-    <color name="mul_login_bg">@*android:color/holo_primary</color>
+    <color name="mul_login_bg">@*android:color/button_material_dark</color>
     <color name="navigation_bar_color">@*android:color/background_dark</color>
     <color name="nearmepay_dialog_text_shadow_color">#c4000000</color>
     <color name="nx_alert_dialog_background_tint">@*android:color/background_dark</color>
@@ -640,7 +640,7 @@
     <color name="nx_security_keyboard_bg_top_color">@*android:color/background_dark</color>
     <color name="nx_security_keyboard_special_key_bg_color">@*android:color/background_dark</color>
     <color name="nx_seekbar_background_color_disabled">#1affffff</color>
-    <color name="nx_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="nx_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="nx_seekbar_progress_color_normal">#ff999999</color>
     <color name="nx_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="nx_seekbar_thumb_shadow_color">#33ffffff</color>
@@ -694,7 +694,7 @@
     <color name="uc_color_70_000000">#b3ffffff</color>
     <color name="uc_color_80_000000">#80ffffff</color>
     <color name="uc_color_BBC0CB">#ff343944</color>
-    <color name="uc_color_CCCCCC">@*android:color/holo_primary</color>
+    <color name="uc_color_CCCCCC">@*android:color/button_material_dark</color>
     <color name="uc_color_F9F9F9">@*android:color/background_dark</color>
     <color name="uc_color_FF931B">#ffe47800</color>
     <color name="uc_delete_alert_dialog_button_warning_color">#ffa22020</color>

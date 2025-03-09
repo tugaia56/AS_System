@@ -1147,7 +1147,7 @@
     <color name="NXswitch_unchecked_inner_circle_disabled_color">#80e5e5e5</color>
     <color name="NXswitch_unchecked_inner_circle_disabled_dark_color">@*android:color/button_material_dark</color>
     <color name="NXtheme1_compoundbutton_textcolor_disable">#4c999d9c</color>
-    <color name="NXtheme1_compoundbutton_textcolor_nomal">@*android:color/holo_primary</color>
+    <color name="NXtheme1_compoundbutton_textcolor_nomal">@*android:color/button_material_dark</color>
     <color name="NXtheme1_dialog_button_divider_color">#0d000000</color>
     <color name="NXtheme1_list_seletor_color_disable">#00000000</color>
     <color name="NXtheme1_list_seletor_color_pressed">#08000000</color>
@@ -2242,8 +2242,8 @@
     <color name="vip_color_2D40E9_6B97FF">@*android:color/accent_material_dark</color>
     <color name="vip_color_2D40E9_light">@*android:color/accent_material_dark</color>
     <color name="vip_color_2D40E9_night">@*android:color/accent_material_dark</color>
-    <color name="vip_color_333333">@*android:color/holo_primary</color>
-    <color name="vip_color_333333_night">@*android:color/holo_primary</color>
+    <color name="vip_color_333333">@*android:color/button_material_dark</color>
+    <color name="vip_color_333333_night">@*android:color/button_material_dark</color>
     <color name="vip_color_39BF56">#ff39bf56</color>
     <color name="vip_color_4D99660F">#4d99660f</color>
     <color name="vip_color_4D99660F_light">#4d99660f</color>

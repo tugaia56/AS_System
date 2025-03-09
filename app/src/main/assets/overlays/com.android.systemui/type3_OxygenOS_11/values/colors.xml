@@ -59,7 +59,7 @@
     <color name="biometric_dialog_accent">@*android:color/accent_material_dark</color>
     <color name="biometric_dialog_dim_color">#80000000</color>
     <color name="biometric_dialog_error">#fff50514</color>
-    <color name="biometric_dialog_gray">@*android:color/holo_primary</color>
+    <color name="biometric_dialog_gray">@*android:color/button_material_dark</color>
     <color name="biometric_fingerprint_error_color">#32000000</color>
     <color name="black_system_primary_color">@*android:color/background_dark</color>
     <color name="black_volume_panel_expand_btn_color">#ffffffff</color>
@@ -258,7 +258,7 @@
     <color name="lb_details_description_body_color">#b2eeeeee</color>
     <color name="lb_details_description_color">#ffeeeeee</color>
     <color name="lb_details_overview_bg_color">@*android:color/background_dark</color>
-    <color name="lb_error_background_color_opaque">@*android:color/holo_primary</color>
+    <color name="lb_error_background_color_opaque">@*android:color/button_material_dark</color>
     <color name="lb_error_background_color_translucent">#e6000000</color>
     <color name="lb_error_message">#80eeeeee</color>
     <color name="lb_grey">#ff888888</color>
@@ -287,7 +287,7 @@
     <color name="lb_search_bar_text_speech_mode">#ff444444</color>
     <color name="lb_search_plate_hint_text_color">#ffcccccc</color>
     <color name="lb_speech_orb_not_recording">#ffcccccc</color>
-    <color name="lb_speech_orb_not_recording_icon">@*android:color/holo_primary</color>
+    <color name="lb_speech_orb_not_recording_icon">@*android:color/button_material_dark</color>
     <color name="lb_speech_orb_not_recording_pulsed">#ffeeeeee</color>
     <color name="lb_speech_orb_recording">#ffff4343</color>
     <color name="lb_tv_white">#ffcccccc</color>
@@ -307,7 +307,7 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffffffff</color>
     <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_600">@*android:color/holo_primary</color>
+    <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>

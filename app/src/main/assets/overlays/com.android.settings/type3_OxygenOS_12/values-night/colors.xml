@@ -72,7 +72,7 @@
     <color name="op_sub_accent_color">#d8ffffff</color>
     <color name="oplus_nav_setting_text">#ffffffff</color>
     <color name="oplus_password_change_bg_normal">@*android:color/background_dark</color>
-    <color name="oplus_password_edit_text_bg_color">@*android:color/holo_primary</color>
+    <color name="oplus_password_edit_text_bg_color">@*android:color/button_material_dark</color>
     <color name="palette_list_gradient_background">@*android:color/black</color>
     <color name="personalization_iv_stroke_color">#14ffffff</color>
     <color name="personalization_text_color">#8cffffff</color>
@@ -88,7 +88,7 @@
     <color name="setting_preference_divider_color">@*android:color/background_dark</color>
     <color name="settings_biometric_pwd_btn_text_color_normal">#8cffffff</color>
     <color name="settings_biometric_pwd_btn_text_color_pressed">#40ffffff</color>
-    <color name="settings_card_bg_color">@*android:color/holo_primary</color>
+    <color name="settings_card_bg_color">@*android:color/button_material_dark</color>
     <color name="settings_city_add_default_stroke_color">#30ffffff</color>
     <color name="settings_dialog_colorError">@*android:color/accent_material_dark</color>
     <color name="settings_dictionary_empty_icon_tint_color">#66ffffff</color>

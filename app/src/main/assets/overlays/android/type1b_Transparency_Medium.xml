@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="keyguard_avatar_frame_shadow_color">#66000000</color>
+    <color name="keyguard_avatar_frame_shadow_color">#61000000</color>
     <color name="legacy_primary">@*android:color/black</color>
-    <color name="background_dark">#66000000</color>
+    <color name="background_dark">#61000000</color>
     <color name="black">#ff000000</color>
     <color name="transparent">#00000000</color>
     <color name="holo_primary_dark">#26000000</color>
@@ -16,7 +16,7 @@
     <color name="background_material_dark">#26000000</color>
     <color name="legacy_primary_dark">@*android:color/black</color>
     <color name="holo_light_primary_dark">#26000000</color>
-    <color name="background_device_default_dark">#66000000</color>
+    <color name="background_device_default_dark">#61000000</color>
 	
     <color name="group_button_dialog_focused_holo_dark">#e6000000</color>	<!-- 10% -->
     <color name="group_button_dialog_focused_holo_light">#cc000000</color>	<!-- 20% -->

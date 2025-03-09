@@ -45,7 +45,7 @@
     <color name="chip_unchecked_text_color_record">#8c000000</color>
     <color name="color_0_degree_gray">@*android:color/background_dark</color>
     <color name="color_16_degree_gray">#ff29292b</color>
-    <color name="color_20_degree_gray">@*android:color/holo_primary</color>
+    <color name="color_20_degree_gray">@*android:color/button_material_dark</color>
     <color name="color_21_degree_gray">#ff363636</color>
     <color name="color_40_degree_gray">#ff666666</color>
     <color name="color_60_degree_gray">#ff999999</color>
@@ -126,7 +126,7 @@
     <color name="color_white_with_90_percent_transparency">#e6ffffff</color>
     <color name="color_white_with_full_percent_transparency">#ffffffff</color>
     <color name="common_bg_color">#4d000000</color>
-    <color name="common_bottom_guide_button_ok">@*android:color/holo_primary</color>
+    <color name="common_bottom_guide_button_ok">@*android:color/button_material_dark</color>
     <color name="common_bottom_guide_text_description_color">#8c000000</color>
     <color name="common_bottom_guide_text_title_color">@*android:color/background_dark</color>
     <color name="couiBlueDarkTintControlDisabled">#33ffffff</color>
@@ -391,7 +391,7 @@
     <color name="couiSingleNinthPressed">#ffbc4260</color>
     <color name="couiSingleNinthTextHighLight">#4cc35570</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressed">@*android:color/accent_material_dark</color>
@@ -589,7 +589,7 @@
     <color name="coui_btn_eye_slash_color_left_top">#ffffffff</color>
     <color name="coui_btn_eye_slash_dark_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_color_on_disabled">#ffd8d8d8</color>
-    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/holo_primary</color>
+    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/button_material_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">#fffafafa</color>
     <color name="coui_btn_part_check_inner_color_on_normal">#ffffffff</color>
     <color name="coui_btn_part_check_inner_dark_color_on_disabled">@*android:color/background_dark</color>
@@ -632,7 +632,7 @@
     <color name="coui_common_warning_dark_color">@*android:color/accent_material_dark</color>
     <color name="coui_common_warning_light_color">@*android:color/accent_material_dark</color>
     <color name="coui_compoundbutton_textcolor_disable">#4c999d9c</color>
-    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/holo_primary</color>
+    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/button_material_dark</color>
     <color name="coui_dark_btn_drawable_color_disabled">#26ffffff</color>
     <color name="coui_delete_alert_dialog_button_focused_color">@*android:color/accent_material_dark</color>
     <color name="coui_detail_floating_text_color">#8c000000</color>
@@ -1051,7 +1051,7 @@
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="setting_pref_title_color">@*android:color/black</color>
-    <color name="share_and_edit_image_background_color">@*android:color/holo_primary</color>
+    <color name="share_and_edit_image_background_color">@*android:color/button_material_dark</color>
     <color name="share_and_edit_layout_background_color">#001a1a1a</color>
     <color name="slow_video_seekbar_line_color">@*android:color/white</color>
     <color name="slow_video_seekbar_node_selected_inner_color">@*android:color/white</color>

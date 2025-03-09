@@ -520,7 +520,7 @@
     <color name="couiSingleSecondCompatNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatTextHighLight">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressed">@*android:color/accent_material_dark</color>
@@ -749,7 +749,7 @@
     <color name="coui_btn_eye_slash_color_left_top">#ffffffff</color>
     <color name="coui_btn_eye_slash_dark_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_color_on_disabled">#ffd8d8d8</color>
-    <color name="coui_btn_part_check_dark_color_on_disabled">#ff262626</color>
+    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/background_leanback_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">#fffafafa</color>
     <color name="coui_btn_part_check_inner_color_on_normal">#ffffffff</color>
     <color name="coui_btn_part_check_inner_dark_color_on_disabled">@*android:color/background_dark</color>
@@ -1307,7 +1307,7 @@
     <color name="lb_details_description_body_color">#b2eeeeee</color>
     <color name="lb_details_description_color">#ffeeeeee</color>
     <color name="lb_details_overview_bg_color">@*android:color/background_dark</color>
-    <color name="lb_error_background_color_opaque">@*android:color/holo_primary</color>
+    <color name="lb_error_background_color_opaque">@*android:color/button_material_dark</color>
     <color name="lb_error_background_color_translucent">#e6000000</color>
     <color name="lb_error_message">#80eeeeee</color>
     <color name="lb_grey">#ff888888</color>
@@ -1443,7 +1443,7 @@
     <color name="notification_material_background_media_default_color">@*android:color/background_dark</color>
     <color name="notification_material_blur_bg">#c0fafafa</color>
     <color name="notification_menu_item_icon_background">#4db1b1b1</color>
-    <color name="notification_menu_item_icon_tint">#ff262626</color>
+    <color name="notification_menu_item_icon_tint">@*android:color/background_leanback_dark</color>
     <color name="notification_panel_solid_background">@*android:color/background_dark</color>
     <color name="notification_primary_text_color">#de000000</color>
     <color name="notification_progress_color">@*android:color/background_leanback_dark</color>

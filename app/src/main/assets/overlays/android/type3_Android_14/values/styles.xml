@@ -11,7 +11,7 @@
     <style name="Widget.Material.TimePicker" parent="@*android:style/Widget.Material">
         <item name="*android:headerBackground">@*android:color/transparent</item>
         <item name="*android:numbersTextColor">@*android:color/white</item>
-        <item name="*android:numbersBackgroundColor">@*android:color/holo_primary</item>
+        <item name="*android:numbersBackgroundColor">@*android:color/button_material_dark</item>
         <item name="*android:numbersSelectorColor">@*android:color/accent_material_dark</item>
         <item name="*android:amPmTextColor">@*android:color/white</item>
         <item name="*android:timePickerMode">@*android:integer/time_picker_mode_material</item>

@@ -230,7 +230,7 @@
     <color name="coui_btn_drawable_color_disabled">#1affffff</color>
     <color name="coui_btn_eye_color_normal">#ffb5b5b5</color>
     <color name="coui_btn_eye_slash_color_left_top">@*android:color/background_dark</color>
-    <color name="coui_btn_part_check_color_on_disabled">@*android:color/holo_primary</color>
+    <color name="coui_btn_part_check_color_on_disabled">@*android:color/button_material_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">@*android:color/background_dark</color>
     <color name="coui_btn_radio_background_color">#80999999</color>
     <color name="coui_btn_radio_color_disabled">#1affffff</color>
@@ -381,7 +381,7 @@
     <color name="switch_unchecked_outer_circle_color">#4dffffff</color>
     <color name="tablayout_indicator_background">#19ffffff</color>
     <color name="teach_summary_text_color">#8cffffff</color>
-    <color name="teach_tips_background_color">@*android:color/holo_primary</color>
+    <color name="teach_tips_background_color">@*android:color/button_material_dark</color>
     <color name="text_ripple_bg_color">#1affffff</color>
     <color name="toast_bg_color">@*android:color/background_dark</color>
     <color name="toast_bg_color_os11">#ff2d2d2d</color>

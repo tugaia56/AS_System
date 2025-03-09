@@ -55,7 +55,7 @@
     <color name="couiSingleFourthLightPressed">#4d5ba427</color>
     <color name="couiSingleNinthLightNormal">#4d853939</color>
     <color name="couiSingleNinthLightPressed">#4d74d131</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhLightNormal">#4d007aff</color>
     <color name="couiSingleSeventhLightPressed">#4d006ee6</color>
@@ -169,7 +169,7 @@
     <color name="coui_shape_btn_check_fill_color_off_disabled">#1ae6e6e6</color>
     <color name="coui_simple_lock_filled_rectangle_icon_color">#e6ffffff</color>
     <color name="coui_simple_lock_outlined_rectangle_icon_color">#66ffffff</color>
-    <color name="coui_slide_view_item_background_color">@*android:color/holo_primary</color>
+    <color name="coui_slide_view_item_background_color">@*android:color/button_material_dark</color>
     <color name="coui_tab_text_color_normal">#ffffffff</color>
     <color name="coui_tool_navigation_item_bg_color">#0dffffff</color>
     <color name="coui_tool_tips_text_color">#8cffffff</color>

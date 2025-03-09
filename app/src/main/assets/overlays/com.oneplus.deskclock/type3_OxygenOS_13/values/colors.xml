@@ -230,7 +230,7 @@
     <color name="couiSingleNinthNormal">#ffc35570</color>
     <color name="couiSingleNinthTextHighLight">#4cc35570</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondTextHighLight">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhBarDisabledColor">#4d007aff</color>
@@ -422,8 +422,8 @@
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_bottom_bar">#fffafafa</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_control_highlight">#7fd0d0d0</color>
@@ -721,7 +721,7 @@
     <color name="coui_stepper_icon_color_a14">#14000000</color>
     <color name="coui_stepper_icon_color_a1f">#1f000000</color>
     <color name="coui_stepper_view_btn_icon_background_color">#1f000000</color>
-    <color name="coui_stepper_view_btn_icon_color">@*android:color/holo_primary</color>
+    <color name="coui_stepper_view_btn_icon_color">@*android:color/button_material_dark</color>
     <color name="coui_stepper_view_text_color">@*android:color/background_dark</color>
     <color name="coui_stroke_button_fill_color">#00000000</color>
     <color name="coui_support_menu_textcolor_normal">#ff363636</color>

@@ -30,7 +30,7 @@
     <color name="aod_edit_half_translucent">#7fffffff</color>
     <color name="aod_focus_circle_bg">#80ffffff</color>
     <color name="aod_focus_text_color">#ffffffff</color>
-    <color name="aod_pannel_background">@*android:color/holo_primary</color>
+    <color name="aod_pannel_background">@*android:color/button_material_dark</color>
     <color name="aod_ramless_home_divider_color">#33000000</color>
     <color name="aod_ramless_switch_divider_color">#1a000000</color>
     <color name="aod_ramless_switch_summary_color">#8c000000</color>
@@ -415,9 +415,9 @@
     <color name="coui_color_background_dark">@*android:color/background_dark</color>
 	    <color name="coui_color_background_with_card">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_light">#ffffffff</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_light">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_light">@*android:color/ripple_material_dark</color>
@@ -492,7 +492,7 @@
     <color name="coui_color_surface">#fffafafa</color>
     <color name="coui_color_surface_dark">@*android:color/background_dark</color>
     <color name="coui_color_surface_top">#ffffffff</color>
-    <color name="coui_color_surface_top_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_surface_top_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_surface_with_card">#fff5f5f5</color>
     <color name="coui_color_surface_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>

@@ -9,7 +9,7 @@
     <color name="base_memories_create_memories_movie_icon_disable_tint">#26ffffff</color>
     <color name="base_memories_create_memories_movie_icon_pressed_tint">#33ffffff</color>
     <color name="base_memories_create_memories_movie_icon_tint">#ffffffff</color>
-    <color name="base_placeholder_color">@*android:color/holo_primary</color>
+    <color name="base_placeholder_color">@*android:color/button_material_dark</color>
     <color name="base_sort_guide_primary_color">#d9ffffff</color>
     <color name="base_sort_guide_secondary_color">#8cffffff</color>
     <color name="base_split_menu_color">#d8ffffff</color>
@@ -17,7 +17,7 @@
     <color name="base_split_menu_pressed_color">#33ffffff</color>
     <color name="base_timeline_footer_str_cloud_text_color">#7fffffff</color>
     <color name="base_timeline_footer_str_text_color">#7fffffff</color>
-    <color name="base_timeline_gray_placeholder_color">@*android:color/holo_primary</color>
+    <color name="base_timeline_gray_placeholder_color">@*android:color/button_material_dark</color>
     <color name="base_timeline_title_map_icon_cover_color">#66ffffff</color>
     <color name="bottom_recommended_recycler_view_bg">@*android:color/button_material_dark</color>
     <color name="bottom_recommended_title_common">#ffffffff</color>
@@ -46,7 +46,7 @@
     <color name="common_round_drawable_frame_stroke_color">#14ffffff</color>
     <color name="common_text_ripple_bg_color">#1affffff</color>
     <color name="common_tips_text_color">#73ffffff</color>
-    <color name="common_toolbar_select_background_color">@*android:color/holo_primary</color>
+    <color name="common_toolbar_select_background_color">@*android:color/button_material_dark</color>
     <color name="common_toolbar_stroke_color">#d8ffffff</color>
     <color name="common_toolbar_text_color">#d8ffffff</color>
     <color name="common_top_tips_background_color">@*android:color/background_dark</color>
@@ -237,7 +237,7 @@
     <color name="couiSingleNinthNormalRepatchP">#ffb1362f</color>
     <color name="couiSingleNinthPressedRepatchP">#ffb1362f</color>
     <color name="couiSingleSecondBarDisabledRepatchP">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightNormalRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondLightPressedRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormalRepatchP">@*android:color/accent_material_dark</color>
@@ -370,7 +370,7 @@
     <color name="coui_color_additional_yellow">#fff2bf30</color>
     <color name="coui_color_background">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_controls">#4dffffff</color>
     <color name="coui_color_disabled_neutral">#4dffffff</color>
@@ -406,7 +406,7 @@
     <color name="coui_color_secondary_yellow">#40f2bf30</color>
     <color name="coui_color_success">@*android:color/accent_material_dark</color>
     <color name="coui_color_surface">@*android:color/background_dark</color>
-    <color name="coui_color_surface_top">@*android:color/holo_primary</color>
+    <color name="coui_color_surface_top">@*android:color/button_material_dark</color>
     <color name="coui_color_surface_with_card">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
     <color name="coui_edit_text_delete_bg_color_normal">#33ffffff</color>
@@ -460,7 +460,7 @@
     <color name="coui_searchview_hint_bg_color_disabled">#13ffffff</color>
     <color name="coui_searchview_hint_bg_color_normal">#26ffffff</color>
     <color name="coui_seekbar_background_color_disabled">#1affffff</color>
-    <color name="coui_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="coui_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="coui_seekbar_progress_color_normal">#ff999999</color>
     <color name="coui_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="coui_seekbar_thumb_shadow_color">#33ffffff</color>
@@ -486,9 +486,9 @@
     <color name="main_fast_track_view_item_title_text_color">#d9ffffff</color>
     <color name="main_oshare_status_text_color_cancelling">#26ffffff</color>
     <color name="main_oshare_status_text_color_normal">#4cffffff</color>
-    <color name="main_reslover_gallery_default_cover_color">@*android:color/holo_primary</color>
+    <color name="main_reslover_gallery_default_cover_color">@*android:color/button_material_dark</color>
     <color name="main_resolver_gallery_oshare_bottom_divider_color">#33ffffff</color>
-    <color name="main_search_view_hint_background_color">@*android:color/holo_primary</color>
+    <color name="main_search_view_hint_background_color">@*android:color/button_material_dark</color>
     <color name="main_share_navigationbar_color">@*android:color/background_dark</color>
     <color name="main_show_all_button_text_color">#e6ffffff</color>
     <color name="main_tab_default_icon_black">#4dffffff</color>
@@ -509,7 +509,7 @@
     <color name="picture3d_ocr_result_menu_disable_color">#33ffffff</color>
     <color name="picture3d_ocr_result_menu_pressed_color">#26ffffff</color>
     <color name="picture3d_ocr_result_menu_tint_color">#ffffffff</color>
-    <color name="picture3d_placeholder_color">@*android:color/holo_primary</color>
+    <color name="picture3d_placeholder_color">@*android:color/button_material_dark</color>
     <color name="picture3d_tips_text_color">#73ffffff</color>
     <color name="search_album_search_clear_color">#d9ffffff</color>
     <color name="search_album_search_icon_clear_input_color">#8cffffff</color>

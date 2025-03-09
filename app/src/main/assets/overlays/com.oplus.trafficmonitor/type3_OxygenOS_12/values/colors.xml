@@ -361,7 +361,7 @@
     <color name="couiSingleSecondCompatNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatTextHighLight">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressed">@*android:color/accent_material_dark</color>
@@ -544,7 +544,7 @@
     <color name="couiYellowTintLightPressed">#262144bf</color>
     <color name="coui_SpinnerItem_text_color">@*android:color/background_dark</color>
     <color name="coui_alert_dialog_background_tint">@*android:color/background_dark</color>
-    <color name="coui_alert_dialog_background_tint_dark">@*android:color/holo_primary_dark</color>
+    <color name="coui_alert_dialog_background_tint_dark">@*android:color/button_material_dark</color>
     <color name="coui_alert_dialog_button_color_pressed">#08000000</color>
     <color name="coui_alert_dialog_content_text_color">@*android:color/background_dark</color>
     <color name="coui_alert_dialog_content_text_color_dark">#ffffffff</color>
@@ -590,7 +590,7 @@
     <color name="coui_btn_eye_slash_color_left_top">#ffffffff</color>
     <color name="coui_btn_eye_slash_dark_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_color_on_disabled">#ffd8d8d8</color>
-    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/holo_primary</color>
+    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/button_material_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">#fffafafa</color>
     <color name="coui_btn_part_check_inner_color_on_normal">#ffffffff</color>
     <color name="coui_btn_part_check_inner_dark_color_on_disabled">@*android:color/background_dark</color>
@@ -633,7 +633,7 @@
     <color name="coui_common_warning_dark_color">@*android:color/accent_material_dark</color>
     <color name="coui_common_warning_light_color">@*android:color/accent_material_dark</color>
     <color name="coui_compoundbutton_textcolor_disable">#4c999d9c</color>
-    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/holo_primary</color>
+    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/button_material_dark</color>
     <color name="coui_control_id_bg_color">#ffffffff</color>
     <color name="coui_control_id_bg_color_popup">#ffffffff</color>
     <color name="coui_control_id_day_of_week">#4d000000</color>
@@ -833,7 +833,7 @@
     <color name="coui_security_keyboard_go_label_text_color_normal">#fff1f1f1</color>
     <color name="coui_security_keyboard_go_label_text_color_pressed">#66f1f1f1</color>
     <color name="coui_security_keyboard_special_key_bg_color">#ff474747</color>
-    <color name="coui_security_keyboard_special_key_bg_color_dark">@*android:color/holo_primary_dark</color>
+    <color name="coui_security_keyboard_special_key_bg_color_dark">@*android:color/button_material_dark</color>
     <color name="coui_seekbar_background_color_disabled">#08000000</color>
     <color name="coui_seekbar_background_color_disabled_dark">#1affffff</color>
     <color name="coui_seekbar_background_color_normal">#0d000000</color>
@@ -845,7 +845,7 @@
     <color name="coui_seekbar_secondary_progress_color">#4dffffff</color>
     <color name="coui_seekbar_thumb_color">#ffffffff</color>
     <color name="coui_seekbar_thumb_color_disabled">#ffffffff</color>
-    <color name="coui_seekbar_thumb_color_disabled_dark">@*android:color/holo_primary_dark</color>
+    <color name="coui_seekbar_thumb_color_disabled_dark">@*android:color/button_material_dark</color>
     <color name="coui_seekbar_thumb_shadow_color">#0f000000</color>
     <color name="coui_seekbar_thumb_shadow_color_dark">#33ffffff</color>
     <color name="coui_seekbar_tick_mark_color">#fff2f2f2</color>

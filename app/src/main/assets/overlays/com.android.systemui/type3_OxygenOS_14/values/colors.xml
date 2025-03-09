@@ -336,7 +336,7 @@
     <color name="couiSingleNinthNormal">#ffc35570</color>
     <color name="couiSingleNinthTextHighLight">#4cc35570</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondTextHighLight">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhBarDisabledColor">#4d007aff</color>
@@ -589,9 +589,9 @@
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_light">@*android:color/background_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_light">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_light">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_light">@*android:color/ripple_material_dark</color>
@@ -1235,7 +1235,7 @@
     <color name="lb_details_description_body_color">#b2eeeeee</color>
     <color name="lb_details_description_color">#ffeeeeee</color>
     <color name="lb_details_overview_bg_color">@*android:color/background_dark</color>
-    <color name="lb_error_background_color_opaque">@*android:color/holo_primary</color>
+    <color name="lb_error_background_color_opaque">@*android:color/button_material_dark</color>
     <color name="lb_error_background_color_translucent">#e6000000</color>
     <color name="lb_error_message">#80eeeeee</color>
     <color name="lb_grey">#ff888888</color>
@@ -1490,7 +1490,7 @@
     <color name="notification_expand_button_pill_color_new">#0a000000</color>
     <color name="notification_expand_button_text_color">@*android:color/background_dark</color>
     <color name="notification_expand_button_tint">#d9000000</color>
-    <color name="notification_gear_color">@*android:color/holo_primary</color>
+    <color name="notification_gear_color">@*android:color/button_material_dark</color>
     <color name="notification_guts_bg_color_compass">#ffe5e5e5</color>
     <color name="notification_guts_link_icon_tint">@*android:color/accent_device_default</color>
     <color name="notification_guts_priority_button_bg_fill_color_selected">#ffffffff</color>
@@ -1510,7 +1510,7 @@
     <color name="notification_menu_icon_background">#0f000000</color>
     <color name="notification_menu_icon_keyguard_background">#fffafafa</color>
     <color name="notification_menu_item_icon_background">#4db1b1b1</color>
-    <color name="notification_menu_item_icon_tint">@*android:color/holo_primary</color>
+    <color name="notification_menu_item_icon_tint">@*android:color/button_material_dark</color>
     <color name="notification_popup_menu_app_name_color">#8a000000</color>
     <color name="notification_popup_menu_divider_color">#1f000000</color>
     <color name="notification_popup_menu_icon_color">@*android:color/background_dark</color>
@@ -1618,7 +1618,7 @@
     <color name="oplus_toast_text_color">@*android:color/background_dark</color>
     <color name="oplus_volume_app_adjust_dialog_background">#ffffffff</color>
     <color name="oplus_volume_bar_background">#66808080</color>
-    <color name="oplus_volume_coui_background">@*android:color/holo_primary_dark</color>
+    <color name="oplus_volume_coui_background">@*android:color/button_material_dark</color>
     <color name="oplus_volume_dialog_background">#66b2b2b2</color>
     <color name="oplus_volume_dialog_background_surreal">#ffffffff</color>
     <color name="oplus_volume_dialog_divider_line">#4d000000</color>

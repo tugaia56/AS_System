@@ -106,7 +106,7 @@
     <color name="couiSingleNinthLightPressed">#4d74d131</color>
     <color name="couiSingleNinthNormal">#ffb1362f</color>
     <color name="couiSingleNinthPressed">#ffb1362f</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressed">@*android:color/accent_material_dark</color>
@@ -178,7 +178,7 @@
     <color name="coui_btn_drawable_color_disabled">#1affffff</color>
     <color name="coui_btn_eye_color_normal">#ffb5b5b5</color>
     <color name="coui_btn_eye_slash_color_left_top">@*android:color/background_dark</color>
-    <color name="coui_btn_part_check_color_on_disabled">@*android:color/holo_primary</color>
+    <color name="coui_btn_part_check_color_on_disabled">@*android:color/button_material_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">@*android:color/background_dark</color>
     <color name="coui_btn_radio_background_color">#ffffffff</color>
     <color name="coui_btn_radio_color_disabled">#1affffff</color>
