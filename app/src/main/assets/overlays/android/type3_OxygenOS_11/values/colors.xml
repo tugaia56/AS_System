@@ -34,7 +34,7 @@
     <color name="background_floating_material_light">#ffffffff</color>
     <color name="secondary_text_default_material_dark">#99ffffff</color>
     <color name="preview_fake_preview">@*android:color/background_dark</color>
-    <color name="darker_gray">#ffaeafb1</color>
+    <color name="darker_gray">#aeafb1</color>
     <color name="accent_material_light">@*android:color/accent_material_dark</color>
     <color name="holo_blue_dark">@*android:color/accent_material_dark</color>
     <color name="holo_green_light">@*android:color/accent_material_dark</color>

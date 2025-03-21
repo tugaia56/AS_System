@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="accent_material_light">@*android:color/accent_material_dark</color>
-    <color name="darker_gray">#ffaeafb1</color>
+    <color name="darker_gray">#aeafb1</color>
     <color name="white">#ffffffff</color>
     <color name="background_light">#ffffffff</color>
     <color name="holo_blue_dark">@*android:color/accent_material_dark</color>

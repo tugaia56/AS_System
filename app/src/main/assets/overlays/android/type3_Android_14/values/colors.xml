@@ -280,7 +280,7 @@
     <color name="gradient_start">@*android:color/accent_material_dark</color>
     <color name="gradient_end">@*android:color/accent_material_dark</color>
     <color name="gradient_device_default">@*android:color/accent_material_dark</color>
-    <color name="darker_gray">#ffffffff</color>
+    <color name="darker_gray">#aeafb1</color>
     <color name="white">#fffafafa</color>
     <color name="input_method_navigation_guard">@*android:color/background_dark</color>
     <color name="shadow">#c0000000</color>

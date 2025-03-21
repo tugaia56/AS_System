@@ -10,7 +10,7 @@
     <color name="resolver_empty_state_text">#ffffffff</color>
 	
     <color name="accent_material_light">@*android:color/accent_material_dark</color>
-    <color name="darker_gray">#ffaeafb1</color>
+    <color name="darker_gray">#aeafb1</color>
     <color name="white">#ffffffff</color>
     <color name="background_light">#ffffffff</color>
     <color name="holo_blue_dark">@*android:color/accent_material_dark</color>
